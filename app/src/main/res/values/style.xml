@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- text -->
+    <style name="jp_faraoradio_text_20sp_bold">
+        <item name="android:textSize">@dimen/jp_faraoradio_header_text</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="jp_faraoradio_text_18sp">
+        <item name="android:textSize">@dimen/jp_faraoradio_simplelist_text_18sp</item>
+    </style>
+
+    <style name="jp_faraoradio_text_16sp_bold">
+        <item name="android:textSize">@dimen/jp_faraoradio_simplelist_text_16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="jp_faraoradio_text_16sp">
+        <item name="android:textSize">@dimen/jp_faraoradio_simplelist_text_16sp</item>
+    </style>
+
+    <style name="jp_faraoradio_text_16sp_gray">
+        <item name="android:textSize">@dimen/jp_faraoradio_simplelist_text_16sp</item>
+        <item name="android:textColor">#A0A0A0</item>
+    </style>
+
+    <style name="jp_faraoradio_text_14sp">
+        <item name="android:textSize">@dimen/jp_faraoradio_simplelist_text_14sp</item>
+    </style>
+
+    <style name="txt_caption">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#FFFFFFFF</item>
+    </style>
+
+    <style name="jp_faraoradio_single_line_text_in_header">
+        <item name="android:textColor">@color/jp_farao_text_title</item>
+        <item name="android:textSize">@dimen/jp_faraoradio_header_text</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center</item>
+        <!-- <item name="android:text">single_line_text_in_header</item> -->
+    </style>
+
+    <style name="jp_faraoradio_single_line_text_in_list">
+        <item name="android:textSize">@dimen/jp_faraoradio_simplelist_text_18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:layout_marginLeft">@dimen/jp_faraoradio_list_margin</item>
+        <item name="android:gravity">left|center_vertical</item>
+        <!-- <item name="android:text">single_line_text_in_list</item> -->
+    </style>
+
+    <style name="jp_faraoradio_txt_menu">
+        <item name="android:textSize">8sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/text_color_menu</item>
+    </style>
+
+    <style name="jp_faraoradio_txt_header">
+        <item name="android:textSize">@dimen/jp_faraoradio_simplelist_text_14sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/res_txt_white_to_gray</item>
+    </style>
+
+    <style name="jp_faraoradio_txt_can_switch_disable">
+        <item name="android:textSize">@dimen/jp_faraoradio_simplelist_text_16sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/selector_default_to_disable</item>
+    </style>
+
+    <!-- view -->
+    <style name="jp_faraoradio_btn_plane">
+        <item name="android:textSize">@dimen/jp_faraoradio_simplelist_text_16sp</item>
+        <item name="android:textColor">@color/jp_farao_text_highlight</item>
+        <item name="android:background">@drawable/new_res_button_plane</item>
+        <item name="android:padding">4dp</item>
+    </style>
+
+    <style name="jp_faraoradio_btn_red">
+        <item name="android:textSize">@dimen/jp_faraoradio_simplelist_text_16sp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:background">@drawable/new_res_button_red</item>
+        <item name="android:padding">4dp</item>
+    </style>
+
+    <style name="jp_faraoradio_chk" parent="android:Widget.CompoundButton.CheckBox">
+        <item name="android:button">@drawable/new_res_checkbox_default</item>
+    </style>
+
+    <style name="jp_faraoradio_tab">
+        <item name="android:textSize">@dimen/jp_faraoradio_simplelist_text_16sp</item>
+        <item name="android:textColor">@color/text_color_tab</item>
+        <item name="android:background">@drawable/new_res_button_select</item>
+        <item name="android:padding">4dp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- animation -->
+    <style name="Animation" parent="android:Animation" />
+
+    <style name="Animation.Activity" parent="android:Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/activity_open_enter</item>
+        <item name="android:activityOpenExitAnimation">@anim/activity_open_exit</item>
+        <item name="android:activityCloseEnterAnimation">@anim/activity_close_enter</item>
+        <item name="android:activityCloseExitAnimation">@anim/activity_close_exit</item>
+    </style>
+
+    <!-- hade -->
+    <style name="Animation.FancyActivity" parent="android:Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/activity_fancy_enter</item>
+        <item name="android:activityOpenExitAnimation">@anim/activity_fancy_exit</item>
+        <item name="android:activityCloseEnterAnimation">@anim/activity_fancy_enter</item>
+        <item name="android:activityCloseExitAnimation">@anim/activity_fancy_exit</item>
+    </style>
+
+    <!-- kaiten -->
+    <style name="Animation.FlipActivity" parent="android:Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/activity_flip_horizontal_enter</item>
+        <item name="android:activityOpenExitAnimation">@anim/activity_flip_horizontal_exit</item>
+        <item name="android:activityCloseEnterAnimation">@anim/activity_flip_horizontal_enter</item>
+        <item name="android:activityCloseExitAnimation">@anim/activity_flip_horizontal_exit</item>
+    </style>
+
+    <!-- NoTransition -->
+    <style name="Animation.SimpleActivity" parent="android:Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/no_animation</item>
+        <item name="android:activityOpenExitAnimation">@anim/no_animation</item>
+        <item name="android:activityCloseEnterAnimation">@anim/no_animation</item>
+        <item name="android:activityCloseExitAnimation">@anim/no_animation</item>
+    </style>
+
+    <style name="CustomProgressBarHorizontal" parent="android:Widget.ProgressBar.Horizontal">
+        <item name="android:progressDrawable">@drawable/seekbar</item>
+        <item name="android:minHeight">3dip</item>
+        <item name="android:maxHeight">3dip</item>
+    </style>
+
+</resources>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:background="@null"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="3dp" >
+
+    <TextView
+        android:id="@+id/setting_txt_mail"
+        style="@style/jp_faraoradio_text_16sp_bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        android:text="mail@aim-inc.co.jp"
+        android:textSize="14sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        android:gravity="center" >
+
+        <!-- <TextView -->
+        <!-- android:id="@+id/textView2" -->
+        <!-- style="@style/txt_black_16b" -->
+        <!-- android:layout_width="wrap_content" -->
+        <!-- android:layout_height="wrap_content" -->
+        <!-- android:text="@string/cap_purchase_information" -->
+        <!-- android:textSize="14sp" /> -->
+
+        <TextView
+            android:id="@+id/setting_txt_user_type"
+            style="@style/jp_faraoradio_text_16sp_bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="テスト"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        android:gravity="center" >
+
+        <TextView
+            android:id="@+id/textView4"
+            style="@style/jp_faraoradio_text_16sp_bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/cap_version"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/setting_txt_version"
+            style="@style/jp_faraoradio_text_16sp_bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="x.x.x"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/setting_btn_logout"
+        style="@style/jp_faraoradio_btn_plane"
+        android:layout_width="@dimen/jp_faraoradio_button_width"
+        android:layout_height="@dimen/jp_faraoradio_button_height"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/new_res_button_plane"
+        android:text="@string/btn_logout" />
+
+</LinearLayout>

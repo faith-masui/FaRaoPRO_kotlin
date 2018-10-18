@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/anim/activity_flip_horizontal_enter.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/anim/activity_flip_horizontal_enter.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/anim/slide_out_to_top.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/exploded-aar/Japan_android_GP/pullToRefresh/unspecified/res/anim/slide_out_to_top.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/anim/activity_flip_horizontal_exit.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/anim/activity_flip_horizontal_exit.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/anim/slide_out_to_top.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/exploded-aar/FaRaoPRO_GP/pullToRefresh/unspecified/res/anim/slide_out_to_top.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/anim/slide_player_jacket_out.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/anim/slide_player_jacket_out.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/anim/slide_center_to_right.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/anim/slide_center_to_right.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/anim/slide_player_jacket_in.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/anim/slide_player_jacket_in.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/anim/slide_center_to_right.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/anim/slide_center_to_right.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/anim/activity_flip_vertical_enter.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/anim/activity_flip_vertical_enter.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/anim/activity_fancy_enter.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/anim/activity_fancy_enter.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/anim/slide_in_from_top.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/exploded-aar/Japan_android_GP/pullToRefresh/unspecified/res/anim/slide_in_from_top.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/anim/slide_right_to_center.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/anim/slide_right_to_center.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/anim/slide_left_to_center.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/anim/slide_left_to_center.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/anim/activity_close_enter.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/anim/activity_close_enter.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/anim/activity_open_exit.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/anim/activity_open_exit.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/anim/slide_center_to_left.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/anim/slide_center_to_left.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/anim/no_animation.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/anim/no_animation.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/anim/slide_in_from_bottom.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/exploded-aar/FaRaoPRO_GP/pullToRefresh/unspecified/res/anim/slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/anim/activity_open_exit.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/anim/activity_open_exit.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/anim/tooltip_in_anim.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/anim/tooltip_in_anim.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/anim/activity_fancy_enter.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/anim/activity_fancy_enter.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/anim/tooltip_out_anim.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/anim/tooltip_out_anim.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/anim/slide_player_jacket_in.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/anim/slide_player_jacket_in.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/anim/activity_flip_vertical_exit.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/anim/activity_flip_vertical_exit.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/anim/activity_flip_vertical_exit.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/anim/activity_flip_vertical_exit.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/anim/activity_fancy_exit.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/anim/activity_fancy_exit.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/anim/activity_fancy_exit.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/anim/activity_fancy_exit.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/anim/slide_in_from_top.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/exploded-aar/FaRaoPRO_GP/pullToRefresh/unspecified/res/anim/slide_in_from_top.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/anim/slide_right_to_center.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/anim/slide_right_to_center.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/anim/tooltip_out_anim.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/anim/tooltip_out_anim.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/anim/activity_open_enter.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/anim/activity_open_enter.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/anim/no_animation_500.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/anim/no_animation_500.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/anim/slide_player_jacket_out.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/anim/slide_player_jacket_out.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/anim/activity_close_enter.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/anim/activity_close_enter.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/anim/slide_out_to_bottom.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/exploded-aar/FaRaoPRO_GP/pullToRefresh/unspecified/res/anim/slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/anim/slide_left_to_center.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/anim/slide_left_to_center.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/anim/slide_center_to_left.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/anim/slide_center_to_left.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/anim/no_animation_500.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/anim/no_animation_500.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/anim/slide_in_from_bottom.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/exploded-aar/Japan_android_GP/pullToRefresh/unspecified/res/anim/slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/anim/tooltip_in_anim.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/anim/tooltip_in_anim.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/anim/slide_out_to_bottom.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/exploded-aar/Japan_android_GP/pullToRefresh/unspecified/res/anim/slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/anim/activity_close_exit.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/anim/activity_close_exit.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/anim/activity_open_enter.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/anim/activity_open_enter.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/anim/activity_flip_horizontal_exit.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/anim/activity_flip_horizontal_exit.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/anim/activity_flip_vertical_enter.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/anim/activity_flip_vertical_enter.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/anim/no_animation.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/anim/no_animation.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/anim/activity_close_exit.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/anim/activity_close_exit.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/anim/activity_flip_horizontal_enter.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/anim/activity_flip_horizontal_enter.xml"
+    }
+]

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical" >
+
+            <ImageView
+                android:id="@+id/draglist_img_icon"
+                android:layout_width="@dimen/jp_faraoradio_otherlist_height"
+                android:layout_height="@dimen/jp_faraoradio_otherlist_height"
+                android:layout_gravity="right|center_vertical"
+                android:padding="4dp"
+                android:scaleType="fitCenter" />
+
+            <TextView
+                android:id="@+id/draglist_txt_text"
+                style="@style/jp_faraoradio_single_line_text_in_list"
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1" />
+
+            <TextView
+                android:id="@+id/draglist_txt_visible"
+                style="@style/jp_faraoradio_btn_plane"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:layout_gravity="right|center_vertical"
+                android:layout_marginRight="6dp"
+                android:gravity="center"
+                android:text="@string/btn_displayed" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>

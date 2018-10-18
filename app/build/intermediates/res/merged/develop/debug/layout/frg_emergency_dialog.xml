@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ProgressWheel="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/jp_farao_black_transDD" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:id="@+id/relative_progress_holder"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/jp_faraoradio_emergency_margin" >
+
+            <com.todddavies.components.progressbar.ProgressWheel
+                android:id="@+id/interruptdialog_progresswheel_progress"
+                android:layout_width="@dimen/jp_faraoradio_emergency_circle_radius"
+                android:layout_height="@dimen/jp_faraoradio_emergency_circle_radius"
+                android:layout_centerInParent="true"
+                ProgressWheel:barColor="@color/jp_farao_view_consumer"
+                ProgressWheel:barLength="60dp"
+                ProgressWheel:barWidth="7dp"
+                ProgressWheel:rimColor="@color/jp_farao_view_consumer"
+                ProgressWheel:rimWidth="3dp"
+                ProgressWheel:spinSpeed="1dp"
+                app:contourColor="@color/jp_farao_view_focus"
+                app:text="" />
+
+            <TextView
+                android:id="@+id/interruptdialog_text_couter"
+                android:layout_width="@dimen/jp_faraoradio_emergency_circle_text_width"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:gravity="center"
+                android:maxLines="1"
+                android:text="@string/msg_confirm_to_connection"
+                android:textColor="@color/jp_farao_text_highlight"
+                android:textSize="@dimen/jp_faraoradio_emergency_text_size" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/text_description"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_marginBottom="@dimen/jp_faraoradio_emergency_margin"
+            android:layout_marginLeft="@dimen/jp_faraoradio_emergency_margin"
+            android:layout_marginRight="@dimen/jp_faraoradio_emergency_margin"
+            android:ellipsize="marquee"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:gravity="center"
+            android:singleLine="true"
+            android:text="@string/msg_emergency_mode"
+            android:textColor="@color/jp_farao_text_highlight"
+            android:textSize="@dimen/jp_faraoradio_emergency_text_size" />
+
+        <ImageButton
+            android:id="@+id/image_button_play"
+            android:layout_width="@dimen/jp_faraoradio_emergency_image_button_size"
+            android:layout_height="@dimen/jp_faraoradio_emergency_image_button_size"
+            android:layout_marginBottom="@dimen/jp_faraoradio_emergency_margin"
+            android:background="@null"
+            android:scaleType="fitCenter"
+            android:src="@drawable/res_btn_emergency_pause" />
+
+        <!--<Button-->
+            <!--android:id="@+id/button_back"-->
+            <!--style="@style/jp_faraoradio_btn_plane"-->
+            <!--android:layout_width="@dimen/jp_faraoradio_button_width"-->
+            <!--android:layout_height="@dimen/jp_faraoradio_button_height"-->
+            <!--android:background="@drawable/res_button_consumer"-->
+            <!--android:text="@string/btn_back_to_login_display" />-->
+    </LinearLayout>
+
+    <ImageButton
+        android:id="@+id/image_button_tips"
+        android:layout_width="@dimen/jp_faraoradio_button_height"
+        android:layout_height="@dimen/jp_faraoradio_button_height"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="@dimen/jp_faraoradio_emergency_margin"
+        android:layout_marginTop="@dimen/jp_faraoradio_emergency_margin"
+        android:background="@null"
+        android:scaleType="fitCenter"
+        android:src="@drawable/ic_error" />
+
+    <RelativeLayout
+        android:id="@+id/layout_tips"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/image_button_tips" >
+
+        <View
+            android:id="@+id/view_balloon"
+            android:layout_width="12dp"
+            android:layout_height="12dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/jp_faraoradio_emergency_baloon_margin"
+            android:layout_marginTop="6dp"
+            android:background="@color/jp_farao_view_consumer"
+            android:rotation="45" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/view_balloon"
+            android:layout_marginLeft="60dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="-7dp"
+            android:background="@drawable/bg_corner_consumer_theme"
+            android:padding="8dp"
+            android:text="@string/msg_emergency_player"
+            android:textColor="@color/jp_farao_text_highlight"
+            android:textSize="@dimen/jp_faraoradio_emergency_text_size" />
+    </RelativeLayout>
+
+</RelativeLayout>

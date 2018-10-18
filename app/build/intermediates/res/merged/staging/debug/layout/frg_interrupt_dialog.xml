@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ProgressWheel="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/jp_farao_black_transDD" >
+
+    <TextView
+        android:id="@+id/interruptdialog_text_title"
+        style="@style/jp_faraoradio_text_20sp_bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/interruptdialog_progresswheel_progress"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="30dp"
+        android:textColor="@color/jp_farao_text_highlight" />
+
+    <com.todddavies.components.progressbar.ProgressWheel
+        android:id="@+id/interruptdialog_progresswheel_progress"
+        android:layout_width="260dp"
+        android:layout_height="260dp"
+        android:layout_centerInParent="true"
+        ProgressWheel:barColor="@color/jp_farao_interrupt_progress"
+        ProgressWheel:barLength="60dp"
+        ProgressWheel:barWidth="7dp"
+        ProgressWheel:rimColor="@color/jp_farao_interrupt_progress"
+        ProgressWheel:rimWidth="3dp"
+        ProgressWheel:spinSpeed="1dp"
+        app:contourColor="@color/jp_farao_view_focus" />
+
+    <TextView
+        android:id="@+id/interruptdialog_text_couter"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="20dp"
+        android:textColor="@color/jp_farao_text_highlight"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/interruptdialog_text_index"
+        style="@style/jp_faraoradio_text_20sp_bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/interruptdialog_progresswheel_progress"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/jp_farao_text_highlight" />
+
+    <TextView
+        android:id="@+id/interruptdialog_text_message"
+        style="@style/jp_faraoradio_text_20sp_bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/interruptdialog_text_index"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/jp_farao_text_highlight" />
+ />
+
+</RelativeLayout>

@@ -1,0 +1,250 @@
+[
+    {
+        "outputFile": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/1.1.3/app/build/intermediates/incremental/mergeStagingReleaseResources/merged.dir/values-ko/values-ko.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 65,
+                    "endOffset": 116
+                },
+                "from": {
+                    "file": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/1.1.3/app/build/intermediates/exploded-aar/1.1.3/pullToRefresh/unspecified/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 65,
+                        "endOffset": 116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 121,
+                    "endColumn": 66,
+                    "endOffset": 183
+                },
+                "from": {
+                    "file": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/1.1.3/app/build/intermediates/exploded-aar/1.1.3/pullToRefresh/unspecified/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 121,
+                        "endColumn": 66,
+                        "endOffset": 183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 188,
+                    "endColumn": 68,
+                    "endOffset": 252
+                },
+                "from": {
+                    "file": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/1.1.3/app/build/intermediates/exploded-aar/1.1.3/pullToRefresh/unspecified/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 188,
+                        "endColumn": 68,
+                        "endOffset": 252
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/incremental/mergeStagingReleaseResources/merged.dir/values-ko/values-ko.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 65,
+                    "endOffset": 116
+                },
+                "from": {
+                    "file": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/exploded-aar/FaRaoPRO_GP/pullToRefresh/unspecified/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 65,
+                        "endOffset": 116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 121,
+                    "endColumn": 66,
+                    "endOffset": 183
+                },
+                "from": {
+                    "file": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/exploded-aar/FaRaoPRO_GP/pullToRefresh/unspecified/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 121,
+                        "endColumn": 66,
+                        "endOffset": 183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 188,
+                    "endColumn": 68,
+                    "endOffset": 252
+                },
+                "from": {
+                    "file": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/exploded-aar/FaRaoPRO_GP/pullToRefresh/unspecified/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 188,
+                        "endColumn": 68,
+                        "endOffset": 252
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/masui/Documents/FaRaoPRO/Android/FaRaoPRO_GP/1.1.5/app/build/intermediates/incremental/mergeStagingReleaseResources/merged.dir/values-ko/values-ko.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 65,
+                    "endOffset": 116
+                },
+                "from": {
+                    "file": "/Users/masui/Documents/FaRaoPRO/Android/FaRaoPRO_GP/1.1.5/app/build/intermediates/exploded-aar/1.1.5/pullToRefresh/unspecified/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 65,
+                        "endOffset": 116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 121,
+                    "endColumn": 66,
+                    "endOffset": 183
+                },
+                "from": {
+                    "file": "/Users/masui/Documents/FaRaoPRO/Android/FaRaoPRO_GP/1.1.5/app/build/intermediates/exploded-aar/1.1.5/pullToRefresh/unspecified/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 121,
+                        "endColumn": 66,
+                        "endOffset": 183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 188,
+                    "endColumn": 68,
+                    "endOffset": 252
+                },
+                "from": {
+                    "file": "/Users/masui/Documents/FaRaoPRO/Android/FaRaoPRO_GP/1.1.5/app/build/intermediates/exploded-aar/1.1.5/pullToRefresh/unspecified/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 188,
+                        "endColumn": 68,
+                        "endOffset": 252
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/masui/Documents/FaRaoPRO/Android/FaRaoPRO_GP/1.1.4/app/build/intermediates/incremental/mergeStagingReleaseResources/merged.dir/values-ko/values-ko.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 65,
+                    "endOffset": 116
+                },
+                "from": {
+                    "file": "/Users/masui/Documents/FaRaoPRO/Android/FaRaoPRO_GP/1.1.4/app/build/intermediates/exploded-aar/1.1.4/pullToRefresh/unspecified/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 65,
+                        "endOffset": 116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 121,
+                    "endColumn": 66,
+                    "endOffset": 183
+                },
+                "from": {
+                    "file": "/Users/masui/Documents/FaRaoPRO/Android/FaRaoPRO_GP/1.1.4/app/build/intermediates/exploded-aar/1.1.4/pullToRefresh/unspecified/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 121,
+                        "endColumn": 66,
+                        "endOffset": 183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 188,
+                    "endColumn": 68,
+                    "endOffset": 252
+                },
+                "from": {
+                    "file": "/Users/masui/Documents/FaRaoPRO/Android/FaRaoPRO_GP/1.1.4/app/build/intermediates/exploded-aar/1.1.4/pullToRefresh/unspecified/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 188,
+                        "endColumn": 68,
+                        "endOffset": 252
+                    }
+                }
+            }
+        ]
+    }
+]

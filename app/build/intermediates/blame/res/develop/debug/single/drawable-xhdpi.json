@@ -1,0 +1,626 @@
+[
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_icn_login_key.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_icn_login_key.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_toolbar_previous_on.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_btn_toolbar_previous_on.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_search_on.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_btn_search_on.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_menu_release_off.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_btn_menu_release_off.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_menu_stream_dis.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_btn_menu_stream_dis.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_menu_stream_dis.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_btn_menu_stream_dis.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/icon_staging.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/icon_staging.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_icn_login_check_off.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_icn_login_check_off.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/wave.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/wave.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_menu_etc_on.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_btn_menu_etc_on.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/icon_notification.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/icon_notification.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/btn_emergency_play.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/btn_emergency_play.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/icon_volume_min.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/icon_volume_min.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/btn_emergency_play_on.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/btn_emergency_play_on.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_menu_artist_on.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_btn_menu_artist_on.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_search_off.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_btn_search_off.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_icn_next.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_icn_next.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/logo_white.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/logo_white.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_icn_head_info_on.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_icn_head_info_on.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_toolbar_good.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_btn_toolbar_good.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_toolbar_share_on.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_btn_toolbar_share_on.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_icn_import.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_icn_import.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_menu_goodlist_off.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_btn_menu_goodlist_off.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_menu_genres_on.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_btn_menu_genres_on.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/icon_volume_max.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/icon_volume_max.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/btn_emergency_pause.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/btn_emergency_pause.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_menu_stream_off.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_btn_menu_stream_off.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_toolbar_play.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_btn_toolbar_play.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_menu_release_dis.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_btn_menu_release_dis.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_menu_mychannels_on.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_btn_menu_mychannels_on.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/icn_update.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/icn_update.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_menu_special_off.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_btn_menu_special_off.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_toolbar_pause.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_btn_toolbar_pause.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_menu_special_on.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_btn_menu_special_on.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_menu_stream_off.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_btn_menu_stream_off.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/icon_staging.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/icon_staging.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_toolbar_previous.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_btn_toolbar_previous.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_toolbar_share_dis.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_btn_toolbar_share_dis.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_bck_splash.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_bck_splash.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/ic_error.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/ic_error.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_menu_setting_off.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_btn_menu_setting_off.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_menu_release_off.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_btn_menu_release_off.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_toolbar_good_on.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_btn_toolbar_good_on.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_toolbar_skip_on.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_btn_toolbar_skip_on.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_bck_splash.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_bck_splash.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_icn_head_home.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_icn_head_home.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_menu_genres_off.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_btn_menu_genres_off.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_icn_login_check_on.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_icn_login_check_on.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_icn_head_info.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_icn_head_info.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_toolbar_bad.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_btn_toolbar_bad.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_toolbar_bad_off.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_btn_toolbar_bad_off.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_log_farao.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_log_farao.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_icn_info.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_icn_info.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/btn_emergency_pause_on.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/btn_emergency_pause_on.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_menu_special_off.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_btn_menu_special_off.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_menu_artist_dis.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_btn_menu_artist_dis.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_icn_login_check_on.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_icn_login_check_on.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_icn_login_check_off.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_icn_login_check_off.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/icon.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/btn_emergency_pause_on.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/btn_emergency_pause_on.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/nothumb.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/nothumb.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_toolbar_skip_on.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_btn_toolbar_skip_on.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_menu_mychannels_off.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_btn_menu_mychannels_off.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_menu_artist_dis.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_btn_menu_artist_dis.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_toolbar_bad_on.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_btn_toolbar_bad_on.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_menu_genres_off.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_btn_menu_genres_off.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_toolbar_good_on.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_btn_toolbar_good_on.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_icn_head_play_on.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_icn_head_play_on.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_toolbar_pause.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_btn_toolbar_pause.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_icn_head_home_on.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_icn_head_home_on.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_toolbar_share_dis.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_btn_toolbar_share_dis.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_icn_next.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_icn_next.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/logo_white.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/logo_white.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_toolbar_share.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_btn_toolbar_share.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/ic_error.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/ic_error.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/noimage.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/noimage.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_icn_head_play.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_icn_head_play.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_toolbar_pause_on.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_btn_toolbar_pause_on.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_toolbar_good_off.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_btn_toolbar_good_off.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_log_farao.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_log_farao.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_toolbar_previous.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_btn_toolbar_previous.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_search_off.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_btn_search_off.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_search_on.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_btn_search_on.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_icn_head_home_on.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_icn_head_home_on.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_menu_artist_on.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_btn_menu_artist_on.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/icon_notification.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/icon_notification.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_menu_home_off.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_btn_menu_home_off.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_menu_goodlist_on.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_btn_menu_goodlist_on.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_icn_login_key.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_icn_login_key.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_toolbar_previous_on.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_btn_toolbar_previous_on.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/icon_volume_min.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/icon_volume_min.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_toolbar_bad_on.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_btn_toolbar_bad_on.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_menu_home_on.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_btn_menu_home_on.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_icn_head_play_on.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_icn_head_play_on.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_menu_release_on.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_btn_menu_release_on.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_toolbar_play_on.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_btn_toolbar_play_on.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_toolbar_previous_off.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_btn_toolbar_previous_off.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_toolbar_bad_off.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_btn_toolbar_bad_off.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/btn_emergency_pause.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/btn_emergency_pause.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_toolbar_share.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_btn_toolbar_share.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/nothumb.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/nothumb.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/icon.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_icn_play_small.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_icn_play_small.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_toolbar_previous_off.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_btn_toolbar_previous_off.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/noimage.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/noimage.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_toolbar_play_on.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_btn_toolbar_play_on.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_menu_release_on.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_btn_menu_release_on.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_toolbar_play.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_btn_toolbar_play.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_icn_import.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_icn_import.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/icon_volume_max.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/icon_volume_max.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_menu_mychannels_on.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_btn_menu_mychannels_on.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_icn_offtimer.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_icn_offtimer.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_menu_etc_off.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_btn_menu_etc_off.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_menu_genres_on.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_btn_menu_genres_on.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_toolbar_skip_off.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_btn_toolbar_skip_off.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/btn_emergency_play_on.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/btn_emergency_play_on.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_toolbar_good.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_btn_toolbar_good.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/btn_emergency_play.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/btn_emergency_play.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_icn_head_info_on.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_icn_head_info_on.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/wave.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/wave.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_menu_goodlist_off.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_btn_menu_goodlist_off.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_menu_special_on.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_btn_menu_special_on.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_menu_setting.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_btn_menu_setting.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/icon_update.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/icon_update.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_menu_release_dis.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_btn_menu_release_dis.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_toolbar_pause_on.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_btn_toolbar_pause_on.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_icn_head_info.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_icn_head_info.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_menu_etc_off.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_btn_menu_etc_off.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_menu_goodlist_on.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_btn_menu_goodlist_on.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/icon_update.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/icon_update.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_icn_login_mail.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_icn_login_mail.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_menu_setting.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_btn_menu_setting.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_toolbar_good_off.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_btn_toolbar_good_off.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_menu_home_off.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_btn_menu_home_off.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/icn_update.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/icn_update.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_icn_offtimer.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_icn_offtimer.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_icn_info.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_icn_info.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_menu_artist_off.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_btn_menu_artist_off.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_icn_head_home.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_icn_head_home.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_menu_stream_on.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_btn_menu_stream_on.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_menu_etc_on.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_btn_menu_etc_on.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_toolbar_skip.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_btn_toolbar_skip.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_toolbar_share_on.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_btn_toolbar_share_on.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_menu_artist_off.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_btn_menu_artist_off.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_menu_home_on.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_btn_menu_home_on.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_menu_stream_on.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_btn_menu_stream_on.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_toolbar_skip_off.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_btn_toolbar_skip_off.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_toolbar_skip.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_btn_toolbar_skip.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_icn_search.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_icn_search.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_icn_search.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_icn_search.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_icn_head_play.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_icn_head_play.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_toolbar_bad.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_btn_toolbar_bad.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_icn_play_small.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/drawable-xhdpi/new_icn_play_small.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_menu_setting_off.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_btn_menu_setting_off.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_icn_login_mail.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_icn_login_mail.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-xhdpi/new_btn_menu_mychannels_off.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/drawable-xhdpi/new_btn_menu_mychannels_off.png"
+    }
+]

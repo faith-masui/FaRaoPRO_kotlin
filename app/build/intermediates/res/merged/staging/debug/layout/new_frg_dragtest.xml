@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical" >
+
+    <jp.faraopro.play.view.DragListView
+        android:id="@+id/list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        android:divider="@drawable/parts_dot_gray"
+        android:padding="6dp" >
+    </jp.faraopro.play.view.DragListView>
+
+    <Button
+        android:id="@+id/drag_btn_commit"
+        style="@style/jp_faraoradio_btn_plane"
+        android:layout_width="@dimen/jp_faraoradio_button_width"
+        android:layout_height="@dimen/jp_faraoradio_button_height"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="4dp"
+        android:text="@string/btn_apply" />
+
+    <TextView
+        android:id="@+id/release_txt_intro"
+        style="@style/jp_faraoradio_text_14sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|bottom"
+        android:layout_marginBottom="6dp"
+        android:layout_marginTop="10dp"
+        android:gravity="bottom"
+        android:padding="8dp"
+        android:text="@string/msg_intro_replacing" >
+    </TextView>
+
+</LinearLayout>

@@ -1,0 +1,438 @@
+[
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/new_frg_about.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/new_frg_about.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/new_res_dropdown_item.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/new_res_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/layout_other_setting.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/layout_other_setting.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/new_res_search.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/new_res_search.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/layout_pattern_list_element.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/layout_pattern_list_element.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/new_res_2tab.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/new_res_2tab.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/new_frg_browser.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/new_frg_browser.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/parts_timer_2toggle_switch.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/parts_timer_2toggle_switch.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/new_res_2button.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/new_res_2button.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/new_frg_dragtest.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/new_frg_dragtest.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/frg_emergency_dialog.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/frg_emergency_dialog.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/new_ele_simplelist_item.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/new_ele_simplelist_item.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/layout_simple_2block.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/layout_simple_2block.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/new_res_1button.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/new_res_1button.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/new_res_3tab.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/new_res_3tab.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/new_res_search.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/new_res_search.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/layout_simple_3block.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/layout_simple_3block.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/new_frg_local_player.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/new_frg_local_player.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/new_ele_deletelist_item.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/new_ele_deletelist_item.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/pull_to_refresh_header_vertical.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/exploded-aar/FaRaoPRO_GP/pullToRefresh/unspecified/res/layout/pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/pull_to_refresh_header_vertical.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/exploded-aar/Japan_android_GP/pullToRefresh/unspecified/res/layout/pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/new_frg_stream_player.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/new_frg_stream_player.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/layout_simple_3block_list.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/layout_simple_3block_list.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/new_res_dropdown_item.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/new_res_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/new_lay_base.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/new_lay_base.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/res_simple_spinner_item.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/res_simple_spinner_item.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/new_frg_favorite_edit.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/new_frg_favorite_edit.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/new_res_channel_edit.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/new_res_channel_edit.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/new_ele_setting_item.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/new_ele_setting_item.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/frg_interrupt_dialog.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/frg_interrupt_dialog.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/new_frg_release.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/new_frg_release.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/new_res_user_info.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/new_res_user_info.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/new_res_1button.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/new_res_1button.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/pull_to_refresh_header_horizontal.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/exploded-aar/FaRaoPRO_GP/pullToRefresh/unspecified/res/layout/pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/frg_interrupt_dialog.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/frg_interrupt_dialog.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/new_res_dialog_textbox.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/new_res_dialog_textbox.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/layout_simple_3block.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/layout_simple_3block.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/new_frg_header.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/new_frg_header.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/new_lay_base.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/new_lay_base.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/new_res_3tab.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/new_res_3tab.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/new_res_dialog_textbox.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/new_res_dialog_textbox.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/new_res_spinner_item.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/new_res_spinner_item.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/layout_other_setting.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/layout_other_setting.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/new_frg_about.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/new_frg_about.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/new_frg_menu1.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/new_frg_menu1.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/new_ele_historylist_item.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/new_ele_historylist_item.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/new_frg_timer.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/new_frg_timer.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/layout_volume_control.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/layout_volume_control.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/new_frg_favorite_edit.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/new_frg_favorite_edit.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/new_frg_release.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/new_frg_release.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/new_frg_player_pro.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/new_frg_player_pro.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/new_ele_imagelist_item.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/new_ele_imagelist_item.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/new_res_2tab.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/new_res_2tab.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/new_ele_imagelist_item.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/new_ele_imagelist_item.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/new_res_channel_edit.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/new_res_channel_edit.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/new_ele_footer_intro.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/new_ele_footer_intro.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/new_frg_stream_player.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/new_frg_stream_player.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/new_frg_menu1.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/new_frg_menu1.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/new_ele_folderlist_item.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/new_ele_folderlist_item.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/parts_timer_2toggle_switch.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/parts_timer_2toggle_switch.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/new_ele_deletelist_timer_item.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/new_ele_deletelist_timer_item.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/number_picker_with_selector_wheel.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/exploded-aar/Japan_android_GP/simonNumpicker/unspecified/res/layout/number_picker_with_selector_wheel.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/new_ele_footer_intro.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/new_ele_footer_intro.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/new_lay_boot.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/new_lay_boot.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/new_ele_draglist_item.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/new_ele_draglist_item.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/pull_to_refresh_header_horizontal.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/exploded-aar/Japan_android_GP/pullToRefresh/unspecified/res/layout/pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/layout_pattern_list_element.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/layout_pattern_list_element.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/new_frg_timer.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/new_frg_timer.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/new_frg_browser_pulltorefresh.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/new_frg_browser_pulltorefresh.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/new_ele_setting_item.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/new_ele_setting_item.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/progress_dialog.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/progress_dialog.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/new_ele_simplelist_item.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/new_ele_simplelist_item.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/new_res_plane_text.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/new_res_plane_text.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/new_frg_dragtest.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/new_frg_dragtest.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/layout_simple_3block_list.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/layout_simple_3block_list.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/new_ele_draglist_item.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/new_ele_draglist_item.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/new_ele_deletelist_item.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/new_ele_deletelist_item.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/new_res_spinner_item.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/new_res_spinner_item.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/new_res_2button.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/new_res_2button.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/new_frg_login_select.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/new_frg_login_select.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/new_frg_player_pro.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/new_frg_player_pro.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/layout_volume_control.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/layout_volume_control.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/new_ele_deletelist_timer_item.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/new_ele_deletelist_timer_item.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/res_simple_spinner_item.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/res_simple_spinner_item.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/new_res_user_info.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/new_res_user_info.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/new_frg_header.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/new_frg_header.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/new_frg_browser.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/new_frg_browser.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/new_frg_browser_pulltorefresh.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/new_frg_browser_pulltorefresh.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/new_res_plane_text.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/new_res_plane_text.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/new_ele_timerlist_item.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/new_ele_timerlist_item.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/new_frg_local_player.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/new_frg_local_player.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/new_ele_timerlist_item.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/new_ele_timerlist_item.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/new_lay_boot.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/new_lay_boot.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/new_res_toggle_switch.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/new_res_toggle_switch.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/number_picker_with_selector_wheel.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/exploded-aar/FaRaoPRO_GP/simonNumpicker/unspecified/res/layout/number_picker_with_selector_wheel.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/layout_pattern_detail.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/layout_pattern_detail.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/layout_simple_2block.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/layout_simple_2block.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/new_res_toggle_switch.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/new_res_toggle_switch.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/frg_emergency_dialog.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/frg_emergency_dialog.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/new_ele_historylist_item.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/new_ele_historylist_item.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/layout_pattern_detail.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/layout_pattern_detail.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/new_ele_folderlist_item.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/new_ele_folderlist_item.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/new_ele_checklist_item.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/new_ele_checklist_item.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/new_ele_checklist_item.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/new_ele_checklist_item.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/frg_pulltorefresh_list.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/frg_pulltorefresh_list.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/new_ele_otherlist_item.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/new_ele_otherlist_item.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/new_frg_login_select.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/new_frg_login_select.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout/new_ele_otherlist_item.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout/new_ele_otherlist_item.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout/frg_pulltorefresh_list.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout/frg_pulltorefresh_list.xml"
+    }
+]

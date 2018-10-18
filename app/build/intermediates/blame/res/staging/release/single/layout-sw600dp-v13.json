@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/1.1.3/app/build/intermediates/res/merged/staging/release/layout-sw600dp-v13/new_frg_login_select.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/1.1.3/app/src/main/res/layout-sw600dp/new_frg_login_select.xml"
+    },
+    {
+        "merged": "/Users/masui/Documents/FaRaoPRO/Android/FaRaoPRO_GP/1.1.5/app/build/intermediates/res/merged/staging/release/layout-sw600dp-v13/new_frg_login_select.xml",
+        "source": "/Users/masui/Documents/FaRaoPRO/Android/FaRaoPRO_GP/1.1.5/app/src/main/res/layout-sw600dp/new_frg_login_select.xml"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/staging/release/layout-sw600dp-v13/new_frg_login_select.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout-sw600dp/new_frg_login_select.xml"
+    },
+    {
+        "merged": "/Users/masui/Documents/FaRaoPRO/Android/FaRaoPRO_GP/1.1.4/app/build/intermediates/res/merged/staging/release/layout-sw600dp-v13/new_frg_login_select.xml",
+        "source": "/Users/masui/Documents/FaRaoPRO/Android/FaRaoPRO_GP/1.1.4/app/src/main/res/layout-sw600dp/new_frg_login_select.xml"
+    }
+]

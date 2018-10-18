@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/masui/farao_pro/Japan_android_GP/app/libs/commons-io-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/pre-dexed/develop/debug/commons-io-2.4_b48b0f6d154fb9c108961f73b796791cc1edbe60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/masui/farao_pro/Japan_android_GP/app/libs/httpclient-4.3.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a9a1fef2faefed639ee0d0fba5b3b8e4eb2ff2d8">
+        <dex dex="/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/pre-dexed/develop/debug/httpclient-4.3.4_e7c7d86eeb11d6185e714ca96b52fb1b97d8a5a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/masui/Documents/FaRaoPRO/Android/FaRaoPRO_GP/1.1.5/app/libs/httpmime-4.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d34b163e52a9727101aced60775d51c5085390a1">
+        <dex dex="/Users/masui/Documents/FaRaoPRO/Android/FaRaoPRO_GP/1.1.5/app/build/intermediates/pre-dexed/staging/release/httpmime-4.1.1_46de4a39d87e732021f8e28b9024e553c235ef53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/exploded-aar/Japan_android_GP/ProgressWheel/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="935b90d554123123a98b86e6a5150184b1e9f606">
+        <dex dex="/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/pre-dexed/develop/debug/Japan_android_GP-ProgressWheel-unspecified_c6369c5f1d7869b244238a82b0b9ece68c7519a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/masui/Documents/FaRaoPRO/Android/FaRaoPRO_GP/1.1.5/app/libs/commons-io-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/masui/Documents/FaRaoPRO/Android/FaRaoPRO_GP/1.1.5/app/build/intermediates/pre-dexed/staging/release/commons-io-2.4_930394efba29c3e84e8034bbbc78e7b1e74cf27a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/masui/Documents/FaRaoPRO/Android/FaRaoPRO_GP/1.1.5/app/libs/commons-codec-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="397f4731a9f9b6eb1907e224911c77ea3aa27a8b">
+        <dex dex="/Users/masui/Documents/FaRaoPRO/Android/FaRaoPRO_GP/1.1.5/app/build/intermediates/pre-dexed/staging/release/commons-codec-1.2_fab6f38239166c7a1cdc93cf726c04379b1cd752.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/exploded-aar/Japan_android_GP/simonNumpicker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f073fd269c73962dcea4bb36bcdf680f7620a1e3">
+        <dex dex="/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/pre-dexed/develop/debug/Japan_android_GP-simonNumpicker-unspecified_fbe025c947e3e0135a3fee00ef248f8fd553ccda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/masui/farao_pro/Japan_android_GP/app/libs/commons-lang3-3.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="659861b4acde07a0527211e40d256119face1d15">
+        <dex dex="/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/pre-dexed/develop/debug/commons-lang3-3.3.2_1b30a0b96b5afc1014d23b434381e179c414e83f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/exploded-aar/Japan_android_GP/pullToRefresh/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="70cd02a6d1de1003ae41c3b54ae1b51d94ba9e0d">
+        <dex dex="/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/pre-dexed/develop/debug/Japan_android_GP-pullToRefresh-unspecified_b59610e18ecc52c0951cda6b92776f5da224a580.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/masui/Documents/FaRaoPRO/Android/FaRaoPRO_GP/1.1.5/app/build/intermediates/exploded-aar/1.1.5/simonNumpicker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f073fd269c73962dcea4bb36bcdf680f7620a1e3">
+        <dex dex="/Users/masui/Documents/FaRaoPRO/Android/FaRaoPRO_GP/1.1.5/app/build/intermediates/pre-dexed/staging/release/1.1.5-simonNumpicker-unspecified_fa17d2688bd8db0112d140ed00994356fd422fdd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/masui/Documents/FaRaoPRO/Android/FaRaoPRO_GP/1.1.5/app/build/intermediates/exploded-aar/1.1.5/ProgressWheel/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="935b90d554123123a98b86e6a5150184b1e9f606">
+        <dex dex="/Users/masui/Documents/FaRaoPRO/Android/FaRaoPRO_GP/1.1.5/app/build/intermediates/pre-dexed/staging/release/1.1.5-ProgressWheel-unspecified_e312c92d60300c61c91a11bcfc312521e79abdc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/masui/Documents/FaRaoPRO/Android/FaRaoPRO_GP/1.1.5/app/libs/android-support-v13.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8dd065c1ea18e585147c938b8b786e22a47df59f">
+        <dex dex="/Users/masui/Documents/FaRaoPRO/Android/FaRaoPRO_GP/1.1.5/app/build/intermediates/pre-dexed/staging/release/android-support-v13_c682077d3910db7982fc7aa47327fa53c0ea8caf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/masui/farao_pro/Japan_android_GP/app/libs/android-support-v13.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8dd065c1ea18e585147c938b8b786e22a47df59f">
+        <dex dex="/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/pre-dexed/develop/debug/android-support-v13_d315e9e7e12825d89533449c30bfab5b257b97d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/masui/Documents/FaRaoPRO/Android/FaRaoPRO_GP/1.1.5/app/libs/commons-lang3-3.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="659861b4acde07a0527211e40d256119face1d15">
+        <dex dex="/Users/masui/Documents/FaRaoPRO/Android/FaRaoPRO_GP/1.1.5/app/build/intermediates/pre-dexed/staging/release/commons-lang3-3.3.2_d435cbe0d42fbbb598a1cb76ac01f85579c2fd63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/masui/farao_pro/Japan_android_GP/app/libs/httpmime-4.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d34b163e52a9727101aced60775d51c5085390a1">
+        <dex dex="/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/pre-dexed/develop/debug/httpmime-4.1.1_f9e04aa346e9ee024de2bb2740c5b1fa22681dda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/masui/Documents/FaRaoPRO/Android/FaRaoPRO_GP/1.1.5/app/build/intermediates/exploded-aar/1.1.5/pullToRefresh/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="70cd02a6d1de1003ae41c3b54ae1b51d94ba9e0d">
+        <dex dex="/Users/masui/Documents/FaRaoPRO/Android/FaRaoPRO_GP/1.1.5/app/build/intermediates/pre-dexed/staging/release/1.1.5-pullToRefresh-unspecified_21081bdfb90d5ad9fdd57977d2fd01629aafcba5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/masui/farao_pro/Japan_android_GP/app/libs/commons-codec-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="397f4731a9f9b6eb1907e224911c77ea3aa27a8b">
+        <dex dex="/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/pre-dexed/develop/debug/commons-codec-1.2_8647ffd1e2db7dd08a6de28bafda96c8c1a140b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/masui/Documents/FaRaoPRO/Android/FaRaoPRO_GP/1.1.5/app/libs/httpclient-4.3.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a9a1fef2faefed639ee0d0fba5b3b8e4eb2ff2d8">
+        <dex dex="/Users/masui/Documents/FaRaoPRO/Android/FaRaoPRO_GP/1.1.5/app/build/intermediates/pre-dexed/staging/release/httpclient-4.3.4_9bc0bbcac595540ffeda8fca394928fdbab19bd5.jar" />
+    </item>
+
+</items>

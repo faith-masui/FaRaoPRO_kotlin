@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/layout-sw600dp-v13/new_frg_login_select.xml",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/src/main/res/layout-sw600dp/new_frg_login_select.xml"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/layout-sw600dp-v13/new_frg_login_select.xml",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/src/main/res/layout-sw600dp/new_frg_login_select.xml"
+    }
+]

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/jp_farao_background_default"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/simplelist_lnr_opt_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:orientation="vertical" />
+
+    <ListView
+        android:id="@android:id/list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:divider="@color/jp_farao_list_border"
+        android:dividerHeight="1px" >
+    </ListView>
+
+    <LinearLayout
+        android:id="@+id/simplelist_lnr_opt_footer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:orientation="vertical" />
+
+    <LinearLayout
+        android:id="@+id/simplelist_lnr_margin"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/jp_faraoradio_footer_height"
+        android:background="@null"
+        android:orientation="vertical" />
+
+</LinearLayout>

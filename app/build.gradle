@@ -1,0 +1,82 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 22
+    buildToolsVersion "23.0.3"
+
+    defaultConfig {
+        applicationId "jp.faraopro.play"
+        minSdkVersion 15
+        targetSdkVersion 19
+
+        versionName "1.1.5"
+        versionCode 10
+
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        manifestPlaceholders = [appName: "@string/app_name", icon: "@drawable/icon"]
+    }
+
+    signingConfigs {
+        release {
+            keyAlias 'faraopro-play-jp-android-app'
+            keyPassword 'faraoproplay2015'
+            storeFile file('../etc/keystore/faith_pro_play.keystore')
+            storePassword 'faith2015'
+        }
+        debug {
+            keyAlias 'androiddebugkey'
+            keyPassword 'android'
+            storeFile file('../etc/keystore/debug.keystore')
+            storePassword 'android'
+        }
+    }
+
+    buildTypes {
+        release {
+            debuggable false
+            minifyEnabled false
+            signingConfig signingConfigs.release
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+        debug {
+            debuggable true
+            signingConfig signingConfigs.debug
+            versionNameSuffix '.debug'
+            applicationIdSuffix '.debug'
+            manifestPlaceholders = [appName: "@string/app_name_debug", icon: "@drawable/icon_staging"]
+        }
+    }
+
+    productFlavors {
+        // server:production
+        production {}
+        // server:staging
+        staging {
+            versionNameSuffix '.staging'
+            manifestPlaceholders = [appName: "@string/app_name_debug", icon: "@drawable/icon_staging"]
+        }
+        // server:staging, developerOption:enable
+        develop {
+            versionNameSuffix '.develop'
+            manifestPlaceholders = [appName: "@string/app_name_debug", icon: "@drawable/icon_staging"]
+        }
+    }
+}
+
+dependencies {
+    compile project(':simonNumpicker')
+    compile project(':pullToRefresh')
+    compile project(':ProgressWheel')
+    compile files('libs/android-support-v13.jar')
+    compile files('libs/commons-codec-1.2.jar')
+    compile files('libs/commons-io-2.4.jar')
+    compile files('libs/commons-lang3-3.3.2.jar')
+    compile files('libs/httpclient-4.3.4.jar')
+    compile files('libs/httpmime-4.1.1.jar')
+    testCompile 'junit:junit:4.12'
+    testCompile 'org.hamcrest:hamcrest-library:1.3'
+    testCompile 'org.mockito:mockito-core:2.1.0-RC.1'
+    androidTestCompile  'com.android.support:support-annotations:24.2.1'
+    androidTestCompile  'com.android.support.test:runner:0.5'
+    androidTestCompile  'com.android.support.test:rules:0.5'
+}

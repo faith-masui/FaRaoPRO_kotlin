@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/masui/farao_pro/Japan_android_GP/app/src/main/jniLibs"/></dataSet><dataSet config="develop"><source path="/Users/masui/farao_pro/Japan_android_GP/app/src/develop/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/masui/farao_pro/Japan_android_GP/app/src/debug/jniLibs"/></dataSet><dataSet config="developDebug"><source path="/Users/masui/farao_pro/Japan_android_GP/app/src/developDebug/jniLibs"/></dataSet></merger>

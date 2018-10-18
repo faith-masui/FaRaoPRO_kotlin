@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--<color name="jp_farao_theme">#003B8F</color>-->
+    <color name="jp_farao_theme">#F9BE36</color>
+    <!-- <color name="jp_farao_theme_trans80">#80003b8f</color> -->
+    <!-- <color name="jp_farao_gray">#555555</color> -->
+    <!-- <color name="jp_farao_gray_light">#dddddd</color> -->
+    <color name="jp_farao_red">#FFFF4444</color>
+    <color name="jp_farao_gray_offline">#FF797B7C</color>
+    <!-- <color name="jp_farao_gray_trans80">#805C5C5C</color> -->
+    <!-- <color name="jp_farao_white_transDD">#DDFFFFFF</color> -->
+    <!-- <color name="jp_farao_black_trans80">#80000000</color> -->
+    <!-- <color name="jp_farao_transparent">#00000000</color> -->
+    <!-- <color name="jp_farao_baseblue1">#7ABAF2</color> -->
+    <!-- <color name="jp_farao_baseblue2">#4192D9</color> -->
+    <!-- <color name="jp_farao_baseblue3">#0074D9</color> -->
+    <!-- <color name="jp_farao_baseblue4">#004B8D</color> -->
+    <!-- <color name="jp_farao_baseblue5">#00305A</color> -->
+
+    <color name="jp_farao_black_transDD">#CC000000</color>
+    <color name="jp_farao_white_trans80">#80FFFFFF</color>
+    <color name="jp_farao_white">#FFFFFFFF</color>
+
+    <!-- color for common -->
+    <color name="jp_farao_background_default">#FFFFFF</color>
+    <color name="jp_farao_background_default_focus">#C0C0C0</color>
+    <color name="jp_farao_background_list_section">#EBEBEC</color>
+    <!-- color for text -->
+    <color name="jp_farao_text_title">#EAEAEA</color>
+    <!--<color name="jp_farao_text_default">#292B2C</color>-->
+    <color name="jp_farao_text_default">#CC000000</color>
+    <color name="jp_farao_text_default_focus">#C0C0C0</color>
+    <color name="jp_farao_text_secondary">#A0A0A0</color>
+    <color name="jp_farao_text_disable">#606060</color>
+    <color name="jp_farao_text_link">#F5AF0E</color>
+    <color name="jp_farao_text_highlight">#FAFAFA</color>
+    <color name="jp_farao_text_view_on">#FFFFFF</color>
+    <!--<color name="jp_farao_text_view_off">#003B8F</color>-->
+    <color name="jp_farao_text_view_off">#F5AF0E</color>
+    <color name="jp_farao_text_menu_on">#F0A100</color>
+    <!--<color name="jp_farao_text_menu_on">#F9BE36</color>-->
+    <color name="jp_farao_text_menu_off">#A0A0A0</color>
+    <!-- view -->
+    <color name="jp_farao_list_border">#494B4C</color>
+    <!--<color name="jp_farao_view_on">#003B8F</color>-->
+    <color name="jp_farao_view_on">#F5AF0E</color>
+    <color name="jp_farao_view_off">#606060</color>
+    <!--<color name="jp_farao_view_focus">#00305A</color>-->
+    <color name="jp_farao_view_focus">#F0A100</color>
+    <color name="jp_farao_view_disable">#404040</color>
+    <color name="jp_farao_tab">#FFFFFF</color>
+    <!--<color name="jp_farao_tab_focus">#003B8F</color>-->
+    <color name="jp_farao_tab_focus">#F0A100</color>
+    <color name="jp_farao_interrupt_progress">#00FFFF</color>
+    <color name="jp_farao_view_consumer">#F5AF0E</color>
+    <color name="jp_farao_view_consumer_focus">#F0A100</color>
+    <color name="jp_farao_text_gray">#808080</color>
+    <color name="jp_farao_prog">#F0A100</color>
+    <color name="jp_farao_tab_press">#f8ecd4</color>
+
+    <color name="jp_farao_palette1">#83affa</color>
+    <color name="jp_farao_palette2">#927bfb</color>
+    <color name="jp_farao_palette3">#f993c0</color>
+    <color name="jp_farao_palette4">#e47070</color>
+    <color name="jp_farao_palette5">#f58c5f</color>
+    <color name="jp_farao_palette6">#f5d85f</color>
+    <color name="jp_farao_palette7">#aef460</color>
+    <color name="jp_farao_palette8">#88ecf7</color>
+</resources>

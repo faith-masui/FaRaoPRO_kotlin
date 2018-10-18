@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_vertical"
+    android:background="@drawable/res_list_item" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/jp_faraoradio_simplelist_height"
+            android:layout_gravity="center_vertical"
+            android:padding="4dp">
+
+            <jp.faraopro.play.view.CircleView
+                android:id="@+id/simplelist_circle"
+                android:layout_width="@dimen/jp_faraoradio_list_circle_size"
+                android:layout_height="@dimen/jp_faraoradio_list_circle_size"
+                android:layout_gravity="right|center_vertical"
+                android:layout_marginLeft="@dimen/jp_faraoradio_list_margin" />
+
+            <TextView
+                android:id="@+id/simplelist_txt_text"
+                style="@style/jp_faraoradio_single_line_text_in_list"
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1" />
+
+            <ImageView
+                android:id="@+id/simplelist_img_play"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right|center_vertical"
+                android:layout_marginRight="@dimen/jp_faraoradio_list_margin"
+                android:src="@drawable/new_icn_play_small" />
+
+            <ImageView
+                android:id="@+id/simplelist_img_next"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right|center_vertical"
+                android:layout_marginRight="@dimen/jp_faraoradio_list_margin"
+                android:src="@drawable/new_icn_next" />
+
+            <ImageView
+                android:id="@+id/simplelist_img_import"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right|center_vertical"
+                android:layout_marginRight="@dimen/jp_faraoradio_list_margin"
+                android:src="@drawable/new_icn_import"
+                android:visibility="gone" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>

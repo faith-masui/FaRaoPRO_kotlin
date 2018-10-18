@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/menu_lnr_parent"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:splitMotionEvents="false" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/jp_farao_list_border" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/jp_faraoradio_footer_height"
+        android:background="@color/jp_farao_white"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="@dimen/jp_faraoradio_footer_menu_padding"
+        android:splitMotionEvents="false" >
+
+        <LinearLayout
+            android:id="@+id/menu_lnr_home"
+            android:layout_width="@dimen/jp_faraoradio_footer_height"
+            android:layout_height="@dimen/jp_faraoradio_footer_height"
+            android:clickable="true"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/menu_img_home"
+                android:layout_width="@dimen/jp_faraoradio_footer_icon_size"
+                android:layout_height="@dimen/jp_faraoradio_footer_icon_size"
+                android:duplicateParentState="true"
+                android:scaleType="fitCenter"
+                android:src="@drawable/new_res_btn_home" />
+
+            <TextView
+                android:id="@+id/menu_txt_home"
+                style="@style/jp_faraoradio_txt_menu"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/jp_faraoradio_footer_text_height"
+                android:duplicateParentState="true"
+                android:gravity="center_horizontal"
+                android:text="@string/page_title_home"
+                android:textSize="@dimen/jp_faraoradio_footer_text_size" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="1px"
+            android:layout_height="1px"
+            android:layout_weight="1" />
+
+        <LinearLayout
+            android:id="@+id/menu_lnr_btn_1"
+            android:layout_width="@dimen/jp_faraoradio_footer_height"
+            android:layout_height="@dimen/jp_faraoradio_footer_height"
+            android:clickable="true"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/menu_img_btn_1"
+                android:layout_width="@dimen/jp_faraoradio_footer_icon_size"
+                android:layout_height="@dimen/jp_faraoradio_footer_icon_size"
+                android:scaleType="fitCenter"
+                android:src="@drawable/new_res_btn_special" />
+
+            <TextView
+                android:id="@+id/menu_txt_btn_1"
+                style="@style/jp_faraoradio_txt_menu"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/jp_faraoradio_footer_text_height"
+                android:gravity="center_horizontal"
+                android:textSize="@dimen/jp_faraoradio_footer_text_size" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="1px"
+            android:layout_height="1px"
+            android:layout_weight="1" />
+
+        <LinearLayout
+            android:id="@+id/menu_lnr_btn_2"
+            android:layout_width="@dimen/jp_faraoradio_footer_height"
+            android:layout_height="@dimen/jp_faraoradio_footer_height"
+            android:clickable="true"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/menu_img_btn_2"
+                android:layout_width="@dimen/jp_faraoradio_footer_icon_size"
+                android:layout_height="@dimen/jp_faraoradio_footer_icon_size"
+                android:scaleType="fitCenter"
+                android:src="@drawable/new_res_btn_stream" />
+
+            <TextView
+                android:id="@+id/menu_txt_btn_2"
+                style="@style/jp_faraoradio_txt_menu"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/jp_faraoradio_footer_text_height"
+                android:gravity="center_horizontal"
+                android:textSize="@dimen/jp_faraoradio_footer_text_size" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="1px"
+            android:layout_height="1px"
+            android:layout_weight="1" />
+
+        <LinearLayout
+            android:id="@+id/menu_lnr_btn_3"
+            android:layout_width="@dimen/jp_faraoradio_footer_height"
+            android:layout_height="@dimen/jp_faraoradio_footer_height"
+            android:clickable="true"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/menu_img_btn_3"
+                android:layout_width="@dimen/jp_faraoradio_footer_icon_size"
+                android:layout_height="@dimen/jp_faraoradio_footer_icon_size"
+                android:scaleType="fitCenter"
+                android:src="@drawable/new_res_btn_history" />
+
+            <TextView
+                android:id="@+id/menu_txt_btn_3"
+                style="@style/jp_faraoradio_txt_menu"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/jp_faraoradio_footer_text_height"
+                android:gravity="center_horizontal"
+                android:textSize="@dimen/jp_faraoradio_footer_text_size" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="1px"
+            android:layout_height="1px"
+            android:layout_weight="1" />
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <LinearLayout
+                android:id="@+id/menu_lnr_other"
+                android:layout_width="@dimen/jp_faraoradio_footer_height"
+                android:layout_height="@dimen/jp_faraoradio_footer_height"
+                android:clickable="true"
+                android:gravity="center"
+                android:orientation="vertical" >
+
+                <ImageView
+                    android:id="@+id/menu_img_other"
+                    android:layout_width="@dimen/jp_faraoradio_footer_icon_size"
+                    android:layout_height="@dimen/jp_faraoradio_footer_icon_size"
+                    android:duplicateParentState="true"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/new_res_btn_other" />
+
+                <TextView
+                    android:id="@+id/menu_txt_btn_other"
+                    style="@style/jp_faraoradio_txt_menu"
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/jp_faraoradio_footer_text_height"
+                    android:duplicateParentState="true"
+                    android:gravity="center_horizontal"
+                    android:text="@string/page_title_more"
+                    android:textSize="@dimen/jp_faraoradio_footer_text_size" />
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/menu_img_update"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:layout_alignRight="@+id/menu_lnr_other"
+                android:layout_alignTop="@+id/menu_lnr_other"
+                android:scaleType="fitCenter"
+                android:src="@drawable/icn_update"
+                android:visibility="visible" />
+        </RelativeLayout>
+    </LinearLayout>
+
+</LinearLayout>

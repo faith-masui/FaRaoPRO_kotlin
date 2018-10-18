@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-mdpi-v4/default_ptr_rotate.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/exploded-aar/Japan_android_GP/pullToRefresh/unspecified/res/drawable-mdpi-v4/default_ptr_rotate.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-mdpi-v4/list_pressed_holo_light.9.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/exploded-aar/FaRaoPRO_GP/simonNumpicker/unspecified/res/drawable-mdpi-v4/list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-mdpi-v4/list_selector_disabled_holo_light.9.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/exploded-aar/Japan_android_GP/simonNumpicker/unspecified/res/drawable-mdpi-v4/list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-mdpi-v4/np_numberpicker_selection_divider.9.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/exploded-aar/Japan_android_GP/simonNumpicker/unspecified/res/drawable-mdpi-v4/np_numberpicker_selection_divider.9.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-mdpi-v4/default_ptr_flip.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/exploded-aar/Japan_android_GP/pullToRefresh/unspecified/res/drawable-mdpi-v4/default_ptr_flip.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-mdpi-v4/list_longpressed_holo.9.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/exploded-aar/Japan_android_GP/simonNumpicker/unspecified/res/drawable-mdpi-v4/list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-mdpi-v4/indicator_arrow.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/exploded-aar/FaRaoPRO_GP/pullToRefresh/unspecified/res/drawable-mdpi-v4/indicator_arrow.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-mdpi-v4/list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/exploded-aar/FaRaoPRO_GP/simonNumpicker/unspecified/res/drawable-mdpi-v4/list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-mdpi-v4/list_focused_holo.9.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/exploded-aar/Japan_android_GP/simonNumpicker/unspecified/res/drawable-mdpi-v4/list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-mdpi-v4/list_focused_holo.9.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/exploded-aar/FaRaoPRO_GP/simonNumpicker/unspecified/res/drawable-mdpi-v4/list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-mdpi-v4/default_ptr_flip.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/exploded-aar/FaRaoPRO_GP/pullToRefresh/unspecified/res/drawable-mdpi-v4/default_ptr_flip.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-mdpi-v4/list_pressed_holo_dark.9.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/exploded-aar/Japan_android_GP/simonNumpicker/unspecified/res/drawable-mdpi-v4/list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-mdpi-v4/list_longpressed_holo.9.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/exploded-aar/FaRaoPRO_GP/simonNumpicker/unspecified/res/drawable-mdpi-v4/list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-mdpi-v4/indicator_arrow.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/exploded-aar/Japan_android_GP/pullToRefresh/unspecified/res/drawable-mdpi-v4/indicator_arrow.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-mdpi-v4/list_selector_disabled_holo_light.9.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/exploded-aar/FaRaoPRO_GP/simonNumpicker/unspecified/res/drawable-mdpi-v4/list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-mdpi-v4/list_pressed_holo_light.9.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/exploded-aar/Japan_android_GP/simonNumpicker/unspecified/res/drawable-mdpi-v4/list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-mdpi-v4/list_pressed_holo_dark.9.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/exploded-aar/FaRaoPRO_GP/simonNumpicker/unspecified/res/drawable-mdpi-v4/list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-mdpi-v4/default_ptr_rotate.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/exploded-aar/FaRaoPRO_GP/pullToRefresh/unspecified/res/drawable-mdpi-v4/default_ptr_rotate.png"
+    },
+    {
+        "merged": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/res/merged/develop/debug/drawable-mdpi-v4/np_numberpicker_selection_divider.9.png",
+        "source": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/app/build/intermediates/exploded-aar/FaRaoPRO_GP/simonNumpicker/unspecified/res/drawable-mdpi-v4/np_numberpicker_selection_divider.9.png"
+    },
+    {
+        "merged": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/res/merged/develop/debug/drawable-mdpi-v4/list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/masui/farao_pro/Japan_android_GP/app/build/intermediates/exploded-aar/Japan_android_GP/simonNumpicker/unspecified/res/drawable-mdpi-v4/list_selector_disabled_holo_dark.9.png"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/masui/Documents/FaRaoPRO/Android/FaRaoPRO_GP/1.1.4/app/build/intermediates/res/merged/production/release/drawable-hdpi/logo_white.png",
+        "source": "/Users/masui/Documents/FaRaoPRO/Android/FaRaoPRO_GP/1.1.4/app/src/main/res/drawable-hdpi/logo_white.png"
+    },
+    {
+        "merged": "/Users/masui/Documents/FaRaoPRO/Android/FaRaoPRO_GP/1.1.5/app/build/intermediates/res/merged/production/release/drawable-hdpi/new_log_farao.png",
+        "source": "/Users/masui/Documents/FaRaoPRO/Android/FaRaoPRO_GP/1.1.5/app/src/main/res/drawable-hdpi/new_log_farao.png"
+    },
+    {
+        "merged": "/Users/masui/Documents/FaRaoPRO/Android/FaRaoPRO_GP/1.1.5/app/build/intermediates/res/merged/production/release/drawable-hdpi/logo_white.png",
+        "source": "/Users/masui/Documents/FaRaoPRO/Android/FaRaoPRO_GP/1.1.5/app/src/main/res/drawable-hdpi/logo_white.png"
+    }
+]

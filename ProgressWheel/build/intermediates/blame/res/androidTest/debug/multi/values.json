@@ -1,0 +1,131 @@
+[
+    {
+        "outputFile": "/Users/masui/farao_pro/Japan_android_GP/ProgressWheel/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 693,
+                    "endColumn": 48,
+                    "endOffset": 737
+                },
+                "from": {
+                    "file": "/Users/masui/farao_pro/Japan_android_GP/ProgressWheel/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 693,
+                        "endColumn": 48,
+                        "endOffset": 737
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 742,
+                    "endColumn": 52,
+                    "endOffset": 790
+                },
+                "from": {
+                    "file": "/Users/masui/farao_pro/Japan_android_GP/ProgressWheel/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 742,
+                        "endColumn": 52,
+                        "endOffset": 790
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/1.1.3/ProgressWheel/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 693,
+                    "endColumn": 48,
+                    "endOffset": 737
+                },
+                "from": {
+                    "file": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/1.1.3/ProgressWheel/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 693,
+                        "endColumn": 48,
+                        "endOffset": 737
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 742,
+                    "endColumn": 52,
+                    "endOffset": 790
+                },
+                "from": {
+                    "file": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/1.1.3/ProgressWheel/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 742,
+                        "endColumn": 52,
+                        "endOffset": 790
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/ProgressWheel/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 693,
+                    "endColumn": 48,
+                    "endOffset": 737
+                },
+                "from": {
+                    "file": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/ProgressWheel/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 693,
+                        "endColumn": 48,
+                        "endOffset": 737
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 742,
+                    "endColumn": 52,
+                    "endOffset": 790
+                },
+                "from": {
+                    "file": "/Users/masui/Desktop/FaRaoPRO/android/FaRaoPRO_GP/ProgressWheel/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 742,
+                        "endColumn": 52,
+                        "endOffset": 790
+                    }
+                }
+            }
+        ]
+    }
+]

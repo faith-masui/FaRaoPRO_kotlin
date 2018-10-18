@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_vertical"
+    android:background="@drawable/res_list_item"
+    android:orientation="horizontal" >
+
+    <RelativeLayout
+        android:layout_width="@dimen/jp_faraoradio_imagelist_height"
+        android:layout_height="@dimen/jp_faraoradio_imagelist_height" >
+
+        <ImageView
+            android:id="@+id/imagelist_img_thumb"
+            android:layout_width="@dimen/jp_faraoradio_imagelist_height"
+            android:layout_height="@dimen/jp_faraoradio_imagelist_height"
+            android:layout_gravity="right|center_vertical"
+            android:scaleType="fitCenter" />
+
+        <ImageView
+            android:id="@+id/imagelist_img_info"
+            android:layout_width="34dp"
+            android:layout_height="34dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:background="@drawable/new_icn_info" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="1dp"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="@dimen/jp_faraoradio_list_margin"
+        android:layout_weight="1"
+        android:gravity="center_vertical"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/imagelist_txt_text"
+            style="@style/jp_faraoradio_text_16sp_bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:text="title" />
+
+        <TextView
+            android:id="@+id/imagelist_txt_description"
+            style="@style/jp_faraoradio_text_14sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:ellipsize="end"
+            android:maxLines="3"
+            android:text="des\ncri\nption\naaa" />
+
+        <TextView
+            android:id="@+id/imagelist_txt_limit"
+            style="@style/jp_faraoradio_text_14sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginTop="2dp"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:text="1000/20/02" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/imagelist_img_next"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right|center_vertical"
+        android:layout_margin="@dimen/jp_faraoradio_list_margin"
+        android:src="@drawable/new_icn_play_small" />
+
+</LinearLayout>

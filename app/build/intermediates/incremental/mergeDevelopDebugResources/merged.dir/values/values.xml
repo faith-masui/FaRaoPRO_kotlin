@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr format="reference" name="numberPickerStyle"/>
+    <bool name="is_high">false</bool>
+    <bool name="is_tablet">false</bool>
+    <color name="jp_farao_background_default">#FFFFFF</color>
+    <color name="jp_farao_background_default_focus">#C0C0C0</color>
+    <color name="jp_farao_background_list_section">#EBEBEC</color>
+    <color name="jp_farao_black_transDD">#CC000000</color>
+    <color name="jp_farao_gray_offline">#FF797B7C</color>
+    <color name="jp_farao_interrupt_progress">#00FFFF</color>
+    <color name="jp_farao_list_border">#494B4C</color>
+    <color name="jp_farao_palette1">#83affa</color>
+    <color name="jp_farao_palette2">#927bfb</color>
+    <color name="jp_farao_palette3">#f993c0</color>
+    <color name="jp_farao_palette4">#e47070</color>
+    <color name="jp_farao_palette5">#f58c5f</color>
+    <color name="jp_farao_palette6">#f5d85f</color>
+    <color name="jp_farao_palette7">#aef460</color>
+    <color name="jp_farao_palette8">#88ecf7</color>
+    <color name="jp_farao_prog">#F0A100</color>
+    <color name="jp_farao_red">#FFFF4444</color>
+    <color name="jp_farao_tab">#FFFFFF</color>
+    <color name="jp_farao_tab_focus">#F0A100</color>
+    <color name="jp_farao_tab_press">#f8ecd4</color>
+    <color name="jp_farao_text_default">#CC000000</color>
+    <color name="jp_farao_text_default_focus">#C0C0C0</color>
+    <color name="jp_farao_text_disable">#606060</color>
+    <color name="jp_farao_text_gray">#808080</color>
+    <color name="jp_farao_text_highlight">#FAFAFA</color>
+    <color name="jp_farao_text_link">#F5AF0E</color>
+    <color name="jp_farao_text_menu_off">#A0A0A0</color>
+    <color name="jp_farao_text_menu_on">#F0A100</color>
+    <color name="jp_farao_text_secondary">#A0A0A0</color>
+    <color name="jp_farao_text_title">#EAEAEA</color>
+    <color name="jp_farao_text_view_off">#F5AF0E</color>
+    <color name="jp_farao_text_view_on">#FFFFFF</color>
+    <color name="jp_farao_theme">#F9BE36</color>
+    <color name="jp_farao_view_consumer">#F5AF0E</color>
+    <color name="jp_farao_view_consumer_focus">#F0A100</color>
+    <color name="jp_farao_view_disable">#404040</color>
+    <color name="jp_farao_view_focus">#F0A100</color>
+    <color name="jp_farao_view_off">#606060</color>
+    <color name="jp_farao_view_on">#F5AF0E</color>
+    <color name="jp_farao_white">#FFFFFFFF</color>
+    <color name="jp_farao_white_trans80">#80FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <declare-styleable name="NumberPicker"><attr format="color|reference" name="solidColor"/><attr format="reference" name="selectionDivider"/><attr format="dimension" name="selectionDividerHeight"/><attr format="dimension" name="selectionDividersDistance"/><attr format="dimension" name="internalMinHeight"/><attr format="dimension" name="internalMaxHeight"/><attr format="dimension" name="internalMinWidth"/><attr format="dimension" name="internalMaxWidth"/><attr format="reference" name="internalLayout"/><attr format="reference" name="virtualButtonPressedDrawable"/></declare-styleable>
+    <declare-styleable name="ProgressWheel"><attr format="string" name="text"/><attr format="color" name="textColor"/><attr format="dimension" name="textSize"/><attr format="color" name="barColor"/><attr format="color" name="rimColor"/><attr format="dimension" name="rimWidth"/><attr format="dimension" name="spinSpeed"/><attr format="integer" name="delayMillis"/><attr format="color" name="circleColor"/><attr format="dimension" name="radius"/><attr format="dimension" name="barWidth"/><attr format="dimension" name="barLength"/><attr format="color" name="contourColor"/><attr format="dimension" name="contourSize"/></declare-styleable>
+    <declare-styleable name="PullToRefresh"><attr format="reference|color" name="ptrRefreshableViewBackground"/><attr format="reference|color" name="ptrHeaderBackground"/><attr format="reference|color" name="ptrHeaderTextColor"/><attr format="reference|color" name="ptrHeaderSubTextColor"/><attr name="ptrMode">
+            <flag name="disabled" value="0x0"/>
+            <flag name="pullFromStart" value="0x1"/>
+            <flag name="pullFromEnd" value="0x2"/>
+            <flag name="both" value="0x3"/>
+            <flag name="manualOnly" value="0x4"/>
+
+            
+            <flag name="pullDownFromTop" value="0x1"/>
+            <flag name="pullUpFromBottom" value="0x2"/>
+        </attr><attr format="reference|boolean" name="ptrShowIndicator"/><attr format="reference" name="ptrDrawable"/><attr format="reference" name="ptrDrawableStart"/><attr format="reference" name="ptrDrawableEnd"/><attr format="reference|boolean" name="ptrOverScroll"/><attr format="reference" name="ptrHeaderTextAppearance"/><attr format="reference" name="ptrSubHeaderTextAppearance"/><attr name="ptrAnimationStyle">
+            <flag name="rotate" value="0x0"/>
+            <flag name="flip" value="0x1"/>
+        </attr><attr format="reference|boolean" name="ptrScrollingWhileRefreshingEnabled"/><attr format="reference|boolean" name="ptrListViewExtrasEnabled"/><attr format="reference|boolean" name="ptrRotateDrawableWhilePulling"/><attr format="reference|color" name="ptrAdapterViewBackground"/><attr format="reference" name="ptrDrawableTop"/><attr format="reference" name="ptrDrawableBottom"/></declare-styleable>
+    <dimen name="header_footer_left_right_padding">24dp</dimen>
+    <dimen name="header_footer_top_bottom_padding">12dp</dimen>
+    <dimen name="indicator_corner_radius">12dp</dimen>
+    <dimen name="indicator_internal_padding">4dp</dimen>
+    <dimen name="indicator_right_padding">10dp</dimen>
+    <dimen name="jp_faraoradio_button_height">30dp</dimen>
+    <dimen name="jp_faraoradio_button_radius">10dp</dimen>
+    <dimen name="jp_faraoradio_button_width">200dp</dimen>
+    <dimen name="jp_faraoradio_emergency_baloon_margin">24dp</dimen>
+    <dimen name="jp_faraoradio_emergency_circle_radius">260dp</dimen>
+    <dimen name="jp_faraoradio_emergency_circle_text_width">230dp</dimen>
+    <dimen name="jp_faraoradio_emergency_image_button_size">50dp</dimen>
+    <dimen name="jp_faraoradio_emergency_margin">15dp</dimen>
+    <dimen name="jp_faraoradio_emergency_text_size">12sp</dimen>
+    <dimen name="jp_faraoradio_footer_height">60dp</dimen>
+    <dimen name="jp_faraoradio_footer_icon_size">42dp</dimen>
+    <dimen name="jp_faraoradio_footer_menu_padding">4dp</dimen>
+    <dimen name="jp_faraoradio_footer_text_height">10dp</dimen>
+    <dimen name="jp_faraoradio_footer_text_size">8sp</dimen>
+    <dimen name="jp_faraoradio_header_btn_margin">10dp</dimen>
+    <dimen name="jp_faraoradio_header_height">50dp</dimen>
+    <dimen name="jp_faraoradio_header_icon_size">38dp</dimen>
+    <dimen name="jp_faraoradio_header_text">14sp</dimen>
+    <dimen name="jp_faraoradio_imagelist_height">90dp</dimen>
+    <dimen name="jp_faraoradio_list_circle_size">20dp</dimen>
+    <dimen name="jp_faraoradio_list_margin">6dp</dimen>
+    <dimen name="jp_faraoradio_otherlist_height">40dp</dimen>
+    <dimen name="jp_faraoradio_player_button_margin">8dp</dimen>
+    <dimen name="jp_faraoradio_player_button_size">50dp</dimen>
+    <dimen name="jp_faraoradio_player_jacket_margin">0dp</dimen>
+    <dimen name="jp_faraoradio_player_progress_size">3dp</dimen>
+    <dimen name="jp_faraoradio_player_text_padding">4dp</dimen>
+    <dimen name="jp_faraoradio_simplelist_height">44dp</dimen>
+    <dimen name="jp_faraoradio_simplelist_text_14sp">12sp</dimen>
+    <dimen name="jp_faraoradio_simplelist_text_16sp">14sp</dimen>
+    <dimen name="jp_faraoradio_simplelist_text_18sp">16sp</dimen>
+    <dimen name="jp_faraoradio_simplelist_text_20sp">18sp</dimen>
+    <dimen name="jp_faraoradio_timerlist_height">80dp</dimen>
+    <item name="gridview" type="id"/>
+    <item name="np__decrement" type="id"/>
+    <item name="np__increment" type="id"/>
+    <item name="scrollview" type="id"/>
+    <item name="webview" type="id"/>
+    <integer name="test">0</integer>
+    <string name="app_name">Fans\' Shop BGM</string>
+    <string name="app_name_debug">[STG]\nFans\' Shop BGM</string>
+    <string name="btn_apply">Apply</string>
+    <string name="btn_automatic_timer">Auto renewal timer</string>
+    <string name="btn_back">Back</string>
+    <string name="btn_buy_cd">Buy CD</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_channel_history_pro">Channel</string>
+    <string name="btn_commit">Complete</string>
+    <string name="btn_create_new_one">Create New</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_displayed">Displayed</string>
+    <string name="btn_do_not_show_again">Do not show again</string>
+    <string name="btn_done">Done</string>
+    <string name="btn_enable_boot_timer">Play back as the app launches</string>
+    <string name="btn_enable_interrupt_play">Permit interrupt playback</string>
+    <string name="btn_favorite_regist">Add</string>
+    <string name="btn_good_history_pro">Good</string>
+    <string name="btn_import_template">Import Timer Settings</string>
+    <string name="btn_import_template_favorite">Import Favorites</string>
+    <string name="btn_login">Log In</string>
+    <string name="btn_logout">Logout</string>
+    <string name="btn_normal_timer">Fixed Timer.</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_play">Play</string>
+    <string name="btn_play_benefit_pro">Special Channel</string>
+    <string name="btn_play_history">Play</string>
+    <string name="btn_quit_automatic_updating">Stop auto renewal</string>
+    <string name="btn_recommended_bgm">Channel</string>
+    <string name="btn_set">Set</string>
+    <string name="cap_account">Account</string>
+    <string name="cap_bgm_volume">BGM Volume</string>
+    <string name="cap_download_file">Download the files</string>
+    <string name="cap_email">Email</string>
+    <string name="cap_english_music_only">International Music Only</string>
+    <string name="cap_error">Error</string>
+    <string name="cap_failed">Failed</string>
+    <string name="cap_file">File</string>
+    <string name="cap_frame_id">Frame ID</string>
+    <string name="cap_includes_software">...\n\nThis product includes softwares below.\n\n...\n</string>
+    <string name="cap_interrupt_frame">Interrupt frame</string>
+    <string name="cap_interrupt_next_day">Next day</string>
+    <string name="cap_interrupt_pattern">Interrupt pattern</string>
+    <string name="cap_interrupt_settings">Insertion settings</string>
+    <string name="cap_interrupt_today">Today</string>
+    <string name="cap_interrupt_volume">Insertion Volume</string>
+    <string name="cap_japanese_music_only">Domestic Music Only</string>
+    <string name="cap_last_update_time">Last updated time</string>
+    <string name="cap_local_play">Play saved files</string>
+    <string name="cap_next_update_time">Next update time</string>
+    <string name="cap_none">None</string>
+    <string name="cap_number_of_files">Number of files</string>
+    <string name="cap_password">Password</string>
+    <string name="cap_pattern_id">Pattern ID</string>
+    <string name="cap_play_all">Play All</string>
+    <string name="cap_success">Succeeded</string>
+    <string name="cap_target_date">Target date</string>
+    <string name="cap_timer_name">Enter Timer name</string>
+    <string name="cap_update">Update</string>
+    <string name="cap_version">Version</string>
+    <string name="cap_volume_audio_focus">BGM Volume in the background (this is to set the FaRo PRO sound volume when other application is playing music or anouncements.)</string>
+    <string name="cap_volume_restore_default">Restore default</string>
+    <string name="cap_volume_setting">Volume Settings</string>
+    <string name="header_artist_attention">Pick-up Artists</string>
+    <string name="hello">Hello World, main!</string>
+    <string name="id_start_service">notification_id</string>
+    <string name="menu_about">About</string>
+    <string name="menu_close">Done</string>
+    <string name="menu_setting">Settings</string>
+    <string name="menu_update">Check update</string>
+    <string name="msg_about">Version %1$s\n\n Fans\' Shop BGM and the Fans\' Shop BGM logos are trademarks of Faith, Inc. All rights reserved.\n© 2018 Faith, Inc.\n</string>
+    <string name="msg_artist_watermark">Search Artist</string>
+    <string name="msg_audio_ipod_player_artist_name_not_found">Unknown</string>
+    <string name="msg_audio_ipod_player_error_playlist_empty">Unable to play. No songs in the playlist. Go back to Home.</string>
+    <string name="msg_audio_ipod_player_error_playlist_not_found">No indicated playlist exists. Go back to Home.</string>
+    <string name="msg_audio_ipod_player_error_unknown">Critical error occurred. Stop playback and go back to Home.</string>
+    <string name="msg_available_new_version">Update is available.</string>
+    <string name="msg_benefit_delivery_begin">Start on :</string>
+    <string name="msg_benefit_delivery_due">Expired</string>
+    <string name="msg_benefit_due">limitation to play</string>
+    <string name="msg_benefit_nodata">You can add exclusive contents with Connecting Card ®, etc. The contents can be played within the valid period. </string>
+    <string name="msg_benefit_playlist_empty">Temporary unavailable</string>
+    <string name="msg_boot_player">Launch Player</string>
+    <string name="msg_can_not_play_all">Not able to playback all</string>
+    <string name="msg_can_not_play_channel">This channel is currently unavailable.</string>
+    <string name="msg_can_play_all">Able to playback all</string>
+    <string name="msg_can_play_part">Able to playback some part</string>
+    <string name="msg_confirm_logout">Do you want to log out?</string>
+    <string name="msg_confirm_to_connection">Connecting...</string>
+    <string name="msg_confirm_to_force_login">You have already logged in with another device. Would you like to log in with this device?</string>
+    <string name="msg_confirm_to_logout">You may not be able to log in again. Are you sure to log out?</string>
+    <string name="msg_confirmation_of_install">Launch the installer. The application will terminate after the update. Please restart the application.</string>
+    <string name="msg_delete_timer">Delete timers?</string>
+    <string name="msg_description_of_saving">Tap "Save", if you want to save the timer to this folder.</string>
+    <string name="msg_download_new_version">Download the latest application</string>
+    <string name="msg_emergency_mode">No network connection. Please check your connection and try again. </string>
+    <string name="msg_emergency_player">If there is no network connection, press "play" button to start alternative BGM.</string>
+    <string name="msg_encourage_update">Please update the application.</string>
+    <string name="msg_error_musicfile_not_found">"Fans\' Shop BGM couldn't find the song set on the timer. Back to Home Screen."</string>
+    <string name="msg_exit_app_pro">Are you sure to exit Fans\' Shop BGM?</string>
+    <string name="msg_failed_to_synchronize">Failed to synchronize</string>
+    <string name="msg_favorite_description">You can register up to 99 favorites from playback screen.</string>
+    <string name="msg_favorite_import_confirm">Would you like to import a favorite template?</string>
+    <string name="msg_favorite_import_error_maxsize">You can import no more favorites.</string>
+    <string name="msg_favorite_no_input_name">Please enter Favorite name</string>
+    <string name="msg_favorite_regist_confirm">Add to Favorites</string>
+    <string name="msg_favorite_regist_error_maxsize">You can add no more favorite. Please delete a favorite to add a new one.</string>
+    <string name="msg_frame_is_not_registered">Not registered</string>
+    <string name="msg_incorrect_email_or_password_pro">The account or password is incorrect. (It may not login when your time settings are incorrect.)</string>
+    <string name="msg_input_all_fields">Please fill in all fields.</string>
+    <string name="msg_interrupt_not_set">No insertion has been set.</string>
+    <string name="msg_interrupt_playing_audio">Playing insertions</string>
+    <string name="msg_interrupt_playing_switch">Play insertion</string>
+    <string name="msg_interrupt_reload">Are you sure to update the insertion information?</string>
+    <string name="msg_intro_artist_search">Please enter your favorite artist.\n Songs with similar taste will be played. </string>
+    <string name="msg_intro_auto_boot">Please set to ON, if you want to start Fans\' Shop BGMM automatically when the tablet is switched on.</string>
+    <string name="msg_intro_replacing">You can edit the order of menu items. Tap and hold an item and change the order as you like.</string>
+    <string name="msg_intro_volume_setting">These settings are to change the Fans\' Shop BGM application sound volumes, not the tablet sound volumes.</string>
+    <string name="msg_invalid_account_type">There is a problem with the account status.</string>
+    <string name="msg_invalid_device_token">There is a problem with the registration of the device token.</string>
+    <string name="msg_invalid_password">Password must be 6-16 characters containing both numeric and alphabetical characters. </string>
+    <string name="msg_location_authorization_restriced">Location Services are restricted by "Restrictions".</string>
+    <string name="msg_locked_account">Your account has been locked.</string>
+    <string name="msg_login_disable_gps">Unable to register the device location.</string>
+    <string name="msg_logout_failed_location">No permission for Location Services. Please go to Settings app of your device to enable Location Services.</string>
+    <string name="msg_music_save_error">Failed to receive the song data.</string>
+    <string name="msg_music_timer_description">You can set time and a channel here as you wish. ON is to playback a channel at a selected time. OFF is to turn off the playback automatically at selected time (e.g. Shop closing time).</string>
+    <string name="msg_musicfile_is_not_found">Song files not found in this folder.</string>
+    <string name="msg_network_error">No network connection. Please check your connection and try again.</string>
+    <string name="msg_no_favorites">No favorite channels saved.</string>
+    <string name="msg_no_playlists">No Playlists exit.</string>
+    <string name="msg_no_update">No update</string>
+    <string name="msg_nodata">No data</string>
+    <string name="msg_not_synchronized">Not synchronized</string>
+    <string name="msg_now_loading">Now Loading…</string>
+    <string name="msg_offline_player">No network connection. Please try again later.</string>
+    <string name="msg_offline_player_confirm">Exit Off-Line Mode and go back to Home. (Exiting Off-Line Mode will stop playing songs. Playing songs can only be available when the network connection is resumed.)</string>
+    <string name="msg_offline_player_nocache">バックアップ音源がありません。</string>
+    <string name="msg_offline_player_playover">No Network Connection. Exit Off-Line Mode.</string>
+    <string name="msg_pattern_is_not_acquired">Not acquired insertion settings for %1$s</string>
+    <string name="msg_playlist_empty">There is no recommendable songs. Please enjoy another channel.</string>
+    <string name="msg_pro_wrong_session">The account is no longer valid. You will be logged out. </string>
+    <string name="msg_quit_automatic_updating">Would you like to stop auto renewal and restore previous timer information?</string>
+    <string name="msg_released_year_info">Please indicate the released year period of songs you want to listen to. Please note that the songs that are close to but outside the year period may be played.</string>
+    <string name="msg_remaining_time_none">The validity period of the account has expired. Please contact your support desk.</string>
+    <string name="msg_sdcard_error">SD Card Error\nThe application is not running appropriately because there is no SD card or the device is connected to PC. </string>
+    <string name="msg_server_error">Server Error.</string>
+    <string name="msg_serviceplan_can_not_play">Not able to play back due to your service plan has changed. </string>
+    <string name="msg_serviceplan_stop_playing">Stopped playback due to your service plan change.</string>
+    <string name="msg_setting_timer_not_selected">No selection.</string>
+    <string name="msg_show_featured_artists">Show Pick-up Artists</string>
+    <string name="msg_skip_button_disabled_for_benefit">"You can't skip this Feature."</string>
+    <string name="msg_skip_button_limit_time_info">You may not skip a song for the first 15 secs.</string>
+    <string name="msg_start_channel_at_history">The channel that includes this title will be played.</string>
+    <string name="msg_start_music_shortly">Playback will start soon.</string>
+    <string name="msg_success_to_connection">Connected.</string>
+    <string name="msg_synchronized">Synchronized</string>
+    <string name="msg_system_error">System Error</string>
+    <string name="msg_time_schedule_duplication">Unable to set the timer. A timer set to go off at the same time has already been registered.</string>
+    <string name="msg_time_schedule_import_confirm">Are you sure all timers currently set will be overwritten?</string>
+    <string name="msg_time_schedule_no_input_name">Please enter Timer name</string>
+    <string name="msg_time_schedule_no_select_all">Please set Timer Information</string>
+    <string name="msg_time_schedule_no_select_source">Please select Play source.</string>
+    <string name="msg_time_schedule_no_select_weekday">Select Day</string>
+    <string name="msg_time_schedule_regist_error_maxsize">You can add no more timer settings.Please delete a timer to add a new one.</string>
+    <string name="msg_timer_channel_change">A channel previously programmed is currently playing. Do you really want to change the channel?</string>
+    <string name="msg_toast_no_channel_history_data">No Channel History</string>
+    <string name="msg_toast_no_good_data">There is no Good log.</string>
+    <string name="msg_toast_no_history_data">There is no play history.</string>
+    <string name="msg_toast_no_time_schedule_data">You have no timer set.</string>
+    <string name="msg_waitting_for_track_completion">Please wait until the end of the track. If you pause the playback, the login process will start.</string>
+    <string name="msg_weekday_friday">Friday</string>
+    <string name="msg_weekday_monday">Monday</string>
+    <string name="msg_weekday_saturday">Saturday</string>
+    <string name="msg_weekday_short_friday">Fri</string>
+    <string name="msg_weekday_short_monday">Mon</string>
+    <string name="msg_weekday_short_saturday">Sat</string>
+    <string name="msg_weekday_short_sunday">Sun</string>
+    <string name="msg_weekday_short_thursday">Thu</string>
+    <string name="msg_weekday_short_tuesday">Tue</string>
+    <string name="msg_weekday_short_wednesday">Wed</string>
+    <string name="msg_weekday_sunday">Sunday</string>
+    <string name="msg_weekday_thursday">Thursday</string>
+    <string name="msg_weekday_tuesday">Tuesday</string>
+    <string name="msg_weekday_wednesday">Wednesday</string>
+    <string name="msg_wrong_session">Invalid Session. Logged out.</string>
+    <string name="notification_id_update">notification_id_update</string>
+    <string name="page_title_artist">Artists</string>
+    <string name="page_title_edit_timer_info">Edit Timer settings.</string>
+    <string name="page_title_favorite">Favorites</string>
+    <string name="page_title_favorite_template">Favorite Template</string>
+    <string name="page_title_genre_pro">Music Genre</string>
+    <string name="page_title_goodlist_pro">Play History</string>
+    <string name="page_title_home">Home</string>
+    <string name="page_title_more">More</string>
+    <string name="page_title_mychannel_edit">Edit</string>
+    <string name="page_title_offline_player">Off-Line Mode</string>
+    <string name="page_title_released_year_pro">Released Year</string>
+    <string name="page_title_setting_enable_autoboot">Automatic start</string>
+    <string name="page_title_setting_help">Help</string>
+    <string name="page_title_setting_inquiry">Send Feedback</string>
+    <string name="page_title_setting_propage">Fans\' Shop BGM Official Website</string>
+    <string name="page_title_setting_select_favorite">Select from Favorites</string>
+    <string name="page_title_setting_select_ipod">Select from Playlists</string>
+    <string name="page_title_setting_select_source">Select Play Channel</string>
+    <string name="page_title_setting_select_template">Select from</string>
+    <string name="page_title_setting_select_weekday">Select Day</string>
+    <string name="page_title_setting_time_shedule">Timer Settings</string>
+    <string name="page_title_setting_time_shedule_new">Create New</string>
+    <string name="page_title_setting_time_shedule_select_bookmark">Select</string>
+    <string name="page_title_setting_time_shedule_select_favorite">Select Favorite</string>
+    <string name="page_title_setting_time_shedule_select_playlist">Select Playlist</string>
+    <string name="page_title_setting_time_shedule_template">Timer Information Template</string>
+    <string name="page_title_shopsearch_result">Search results</string>
+    <string name="page_title_simulcast_list">Live BGM</string>
+    <string name="page_title_special_pro">Channel</string>
+    <string name="progress_bar_label">Loading songs…</string>
+    <string name="progress_bar_label_cancel">Canceling…</string>
+    <string name="pull_to_refresh_from_bottom_pull_label">@string/pull_to_refresh_pull_label</string>
+    <string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string>
+    <string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string>
+    <string name="pull_to_refresh_pull_label">Pull to refresh…</string>
+    <string name="pull_to_refresh_refreshing_label">Loading…</string>
+    <string name="pull_to_refresh_release_label">Release to refresh…</string>
+    <string name="str_forgot_password">Forget Password?</string>
+    <string name="val_activity_animation_duration">700</string>
+    <string name="val_activity_flip_animation_duration">300</string>
+    <style name="Animation" parent="android:Animation"/>
+    <style name="Animation.Activity" parent="android:Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/activity_open_enter</item>
+        <item name="android:activityOpenExitAnimation">@anim/activity_open_exit</item>
+        <item name="android:activityCloseEnterAnimation">@anim/activity_close_enter</item>
+        <item name="android:activityCloseExitAnimation">@anim/activity_close_exit</item>
+    </style>
+    <style name="Animation.FancyActivity" parent="android:Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/activity_fancy_enter</item>
+        <item name="android:activityOpenExitAnimation">@anim/activity_fancy_exit</item>
+        <item name="android:activityCloseEnterAnimation">@anim/activity_fancy_enter</item>
+        <item name="android:activityCloseExitAnimation">@anim/activity_fancy_exit</item>
+    </style>
+    <style name="Animation.FlipActivity" parent="android:Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/activity_flip_horizontal_enter</item>
+        <item name="android:activityOpenExitAnimation">@anim/activity_flip_horizontal_exit</item>
+        <item name="android:activityCloseEnterAnimation">@anim/activity_flip_horizontal_enter</item>
+        <item name="android:activityCloseExitAnimation">@anim/activity_flip_horizontal_exit</item>
+    </style>
+    <style name="Animation.SimpleActivity" parent="android:Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/no_animation</item>
+        <item name="android:activityOpenExitAnimation">@anim/no_animation</item>
+        <item name="android:activityCloseEnterAnimation">@anim/no_animation</item>
+        <item name="android:activityCloseExitAnimation">@anim/no_animation</item>
+    </style>
+    <style name="CustomProgressBarHorizontal" parent="android:Widget.ProgressBar.Horizontal">
+        <item name="android:progressDrawable">@drawable/seekbar</item>
+        <item name="android:minHeight">3dip</item>
+        <item name="android:maxHeight">3dip</item>
+    </style>
+    <style name="DialogTheme" parent="android:Theme.Holo.NoActionBar">
+        <item name="numberPickerStyle">@style/NPWidget.Holo.Light.NumberPicker</item>
+    </style>
+    <style name="DialogTheme.Light" parent="android:Theme.Holo.Light.NoActionBar">
+        <item name="numberPickerStyle">@style/NPWidget.Holo.Light.NumberPicker</item>
+    </style>
+    <style name="NPWidget">
+        <item name="android:textAppearance">?android:attr/textAppearance</item>
+    </style>
+    <style name="NPWidget.Holo.Light.NumberPicker" parent="NPWidget.Holo.NumberPicker">
+        <item name="virtualButtonPressedDrawable">@drawable/item_background_holo_light</item>
+    </style>
+    <style name="NPWidget.Holo.NumberPicker" parent="NPWidget.NumberPicker">
+        <item name="solidColor">@android:color/transparent</item>
+        <item name="selectionDivider">@drawable/np_numberpicker_selection_divider</item>
+        <item name="selectionDividerHeight">2dip</item>
+        <item name="internalLayout">@layout/number_picker_with_selector_wheel</item>
+        <item name="internalMinWidth">64dip</item>
+        <item name="internalMaxHeight">180dip</item>
+        <item name="virtualButtonPressedDrawable">@drawable/item_background_holo_dark</item>
+    </style>
+    <style name="NPWidget.NumberPicker">
+        <item name="android:orientation">vertical</item>
+        <item name="android:fadingEdge">vertical</item>
+        <item name="android:fadingEdgeLength">50dip</item>
+    </style>
+    <style name="SampleTheme" parent="android:Theme.Holo">
+        <item name="numberPickerStyle">@style/NPWidget.Holo.NumberPicker</item>
+        <item name="android:textSize">@dimen/jp_faraoradio_simplelist_text_18sp</item>
+        <item name="android:textColor">@color/jp_farao_text_default</item>
+    </style>
+    <style name="SampleTheme.Light" parent="android:Theme.Holo.Light">
+        <item name="numberPickerStyle">@style/NPWidget.Holo.Light.NumberPicker</item>
+    </style>
+    <style name="jp_faraoradio_btn_plane">
+        <item name="android:textSize">@dimen/jp_faraoradio_simplelist_text_16sp</item>
+        <item name="android:textColor">@color/jp_farao_text_highlight</item>
+        <item name="android:background">@drawable/new_res_button_plane</item>
+        <item name="android:padding">4dp</item>
+    </style>
+    <style name="jp_faraoradio_btn_red">
+        <item name="android:textSize">@dimen/jp_faraoradio_simplelist_text_16sp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:background">@drawable/new_res_button_red</item>
+        <item name="android:padding">4dp</item>
+    </style>
+    <style name="jp_faraoradio_chk" parent="android:Widget.CompoundButton.CheckBox">
+        <item name="android:button">@drawable/new_res_checkbox_default</item>
+    </style>
+    <style name="jp_faraoradio_single_line_text_in_header">
+        <item name="android:textColor">@color/jp_farao_text_title</item>
+        <item name="android:textSize">@dimen/jp_faraoradio_header_text</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center</item>
+        <!-- <item name="android:text">single_line_text_in_header</item> -->
+    </style>
+    <style name="jp_faraoradio_single_line_text_in_list">
+        <item name="android:textSize">@dimen/jp_faraoradio_simplelist_text_18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:layout_marginLeft">@dimen/jp_faraoradio_list_margin</item>
+        <item name="android:gravity">left|center_vertical</item>
+        <!-- <item name="android:text">single_line_text_in_list</item> -->
+    </style>
+    <style name="jp_faraoradio_tab">
+        <item name="android:textSize">@dimen/jp_faraoradio_simplelist_text_16sp</item>
+        <item name="android:textColor">@color/text_color_tab</item>
+        <item name="android:background">@drawable/new_res_button_select</item>
+        <item name="android:padding">4dp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="jp_faraoradio_text_14sp">
+        <item name="android:textSize">@dimen/jp_faraoradio_simplelist_text_14sp</item>
+    </style>
+    <style name="jp_faraoradio_text_16sp">
+        <item name="android:textSize">@dimen/jp_faraoradio_simplelist_text_16sp</item>
+    </style>
+    <style name="jp_faraoradio_text_16sp_bold">
+        <item name="android:textSize">@dimen/jp_faraoradio_simplelist_text_16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="jp_faraoradio_text_16sp_gray">
+        <item name="android:textSize">@dimen/jp_faraoradio_simplelist_text_16sp</item>
+        <item name="android:textColor">#A0A0A0</item>
+    </style>
+    <style name="jp_faraoradio_text_18sp">
+        <item name="android:textSize">@dimen/jp_faraoradio_simplelist_text_18sp</item>
+    </style>
+    <style name="jp_faraoradio_text_20sp_bold">
+        <item name="android:textSize">@dimen/jp_faraoradio_header_text</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="jp_faraoradio_txt_can_switch_disable">
+        <item name="android:textSize">@dimen/jp_faraoradio_simplelist_text_16sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/selector_default_to_disable</item>
+    </style>
+    <style name="jp_faraoradio_txt_header">
+        <item name="android:textSize">@dimen/jp_faraoradio_simplelist_text_14sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/res_txt_white_to_gray</item>
+    </style>
+    <style name="jp_faraoradio_txt_menu">
+        <item name="android:textSize">8sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/text_color_menu</item>
+    </style>
+    <style name="txt_caption">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#FFFFFFFF</item>
+    </style>
+</resources>

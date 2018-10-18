@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/timer_rlt_root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/jp_farao_background_default"
+    android:orientation="vertical"
+    android:padding="10dp" >
+
+    <LinearLayout
+        android:id="@+id/timer_lnr_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <EditText
+            android:id="@+id/timer_edt_name"
+            android:layout_width="1dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="10"
+            android:hint="@string/cap_timer_name"
+            android:singleLine="true" >
+
+            <requestFocus />
+        </EditText>
+
+        <Button
+            android:id="@+id/timer_btn_delete"
+            style="@style/jp_faraoradio_btn_plane"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/jp_faraoradio_button_height"
+            android:layout_marginLeft="8dp"
+            android:background="@drawable/new_res_button_red"
+            android:text="@string/btn_delete" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/timer_lnr_picker"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/timer_lnr_name"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <net.simonvt.numberpicker.NumberPicker
+            android:id="@+id/timer_npk_hour"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="6dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="14dp"
+            android:text=":" />
+
+        <net.simonvt.numberpicker.NumberPicker
+            android:id="@+id/timer_npk_minute"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="6dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/timer_lnr_2button"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/timer_lnr_picker"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/timer_btn_on"
+            style="@style/jp_faraoradio_tab"
+            android:layout_width="1dp"
+            android:layout_height="30dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/new_res_button_select"
+            android:text="ON" />
+
+        <Button
+            android:id="@+id/timer_btn_off"
+            style="@style/jp_faraoradio_tab"
+            android:layout_width="1dp"
+            android:layout_height="30dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginTop="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/new_res_button_select"
+            android:text="OFF" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/timer_lnr_line1"
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_below="@+id/timer_lnr_2button"
+        android:background="@color/jp_farao_list_border"
+        android:orientation="horizontal" />
+
+    <LinearLayout
+        android:id="@+id/timer_lnr_source"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/jp_faraoradio_simplelist_height"
+        android:layout_below="@+id/timer_lnr_line1"
+        android:background="@drawable/res_list_item"
+        android:clickable="true"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/timer_txt_resource"
+            style="@style/jp_faraoradio_txt_can_switch_disable"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/jp_faraoradio_simplelist_height"
+            android:layout_below="@+id/timer_lnr_line1"
+            android:duplicateParentState="true"
+            android:gravity="center_vertical"
+            android:text="@string/page_title_setting_select_source" />
+
+        <TextView
+            style="@style/jp_faraoradio_txt_can_switch_disable"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/jp_faraoradio_simplelist_height"
+            android:layout_below="@+id/timer_lnr_line1"
+            android:duplicateParentState="true"
+            android:gravity="center_vertical"
+            android:text=" : " />
+
+        <TextView
+            android:id="@+id/timer_txt_selected_resource"
+            style="@style/jp_faraoradio_txt_can_switch_disable"
+            android:layout_width="1dp"
+            android:layout_height="@dimen/jp_faraoradio_simplelist_height"
+            android:layout_below="@+id/timer_lnr_line1"
+            android:layout_weight="1"
+            android:duplicateParentState="true"
+            android:gravity="center_vertical" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/timer_lnr_line2"
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_below="@+id/timer_lnr_source"
+        android:background="@color/jp_farao_list_border"
+        android:orientation="horizontal" />
+
+    <LinearLayout
+        android:id="@+id/timer_lnr_week"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/jp_faraoradio_simplelist_height"
+        android:layout_below="@+id/timer_lnr_line2"
+        android:background="@drawable/res_list_item"
+        android:clickable="true"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/timer_txt_week"
+            style="@style/jp_faraoradio_text_16sp_bold"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/jp_faraoradio_simplelist_height"
+            android:layout_below="@+id/timer_lnr_line2"
+            android:gravity="center_vertical"
+            android:text="@string/page_title_setting_select_weekday" />
+
+        <TextView
+            style="@style/jp_faraoradio_text_16sp_bold"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/jp_faraoradio_simplelist_height"
+            android:layout_below="@+id/timer_lnr_line2"
+            android:gravity="center_vertical"
+            android:text=" : " />
+
+        <TextView
+            android:id="@+id/timer_txt_selected_week"
+            style="@style/jp_faraoradio_text_16sp_bold"
+            android:layout_width="1dp"
+            android:layout_height="@dimen/jp_faraoradio_simplelist_height"
+            android:layout_below="@+id/timer_lnr_line2"
+            android:layout_weight="1"
+            android:gravity="center_vertical" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/timer_lnr_line3"
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/timer_lnr_week"
+        android:background="@color/jp_farao_list_border"
+        android:orientation="horizontal" >
+    </LinearLayout>
+
+    <!-- <Button -->
+    <!-- android:id="@+id/timer_btn_set" -->
+    <!-- style="@style/jp_faraoradio_btn_plane" -->
+    <!-- android:layout_width="@dimen/jp_faraoradio_button_width" -->
+    <!-- android:layout_height="@dimen/jp_faraoradio_button_height" -->
+    <!-- android:layout_below="@+id/timer_lnr_line3" -->
+    <!-- android:layout_centerHorizontal="true" -->
+    <!-- android:layout_marginTop="14dp" -->
+    <!-- android:text="@string/btn_set" /> -->
+
+    <LinearLayout
+        android:id="@+id/release_lnr_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/jp_faraoradio_footer_height"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:gravity="bottom"
+        android:orientation="horizontal" >
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_vertical"
+    android:background="@drawable/res_list_item" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical" >
+
+            <TextView
+                android:id="@+id/checklist_txt_name"
+                style="@style/jp_faraoradio_single_line_text_in_list"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/jp_faraoradio_simplelist_height"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1" />
+
+            <CheckBox
+                android:id="@+id/checklist_chk_select"
+                style="@style/jp_faraoradio_chk"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginRight="@dimen/jp_faraoradio_list_margin"
+                android:clickable="false"
+                android:focusable="false" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>

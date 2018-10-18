@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:id="@+id/pattern_list_element_section"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/jp_faraoradio_simplelist_height"
+            android:background="@color/jp_farao_background_list_section"
+            android:orientation="horizontal"
+            android:padding="4dp" >
+
+            <TextView
+                android:id="@+id/pattern_list_element_section_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="12dp"
+                android:singleLine="true" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/pattern_list_element_data1"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/jp_faraoradio_simplelist_height"
+            android:background="@color/jp_farao_background_default"
+            android:orientation="horizontal"
+            android:padding="4dp" >
+
+            <TextView
+                android:id="@+id/pattern_list_element_data1_key"
+                style="@style/jp_faraoradio_text_16sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="12dp"
+                android:singleLine="true" />
+
+            <TextView
+                style="@style/jp_faraoradio_text_16sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:singleLine="true"
+                android:text=" : " />
+
+            <TextView
+                android:id="@+id/pattern_list_element_data1_value"
+                style="@style/jp_faraoradio_text_16sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginRight="12dp"
+                android:singleLine="true" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/pattern_list_element_data2"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/jp_faraoradio_simplelist_height"
+            android:background="@color/jp_farao_background_default"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:id="@+id/pattern_list_element_data2_left"
+                android:layout_width="1dp"
+                android:layout_height="@dimen/jp_faraoradio_simplelist_height"
+                android:layout_weight="2"
+                android:orientation="horizontal"
+                android:padding="4dp"
+                android:visibility="visible" >
+
+                <TextView
+                    android:id="@+id/pattern_list_element_data2_left_key"
+                    style="@style/jp_faraoradio_text_16sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="24dp"
+                    android:singleLine="true" />
+
+                <TextView
+                    style="@style/jp_faraoradio_text_16sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:singleLine="true"
+                    android:text=" : " />
+
+                <TextView
+                    android:id="@+id/pattern_list_element_data2_left_value"
+                    style="@style/jp_faraoradio_text_16sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginRight="12dp"
+                    android:singleLine="true" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/pattern_list_element_data2_right"
+                android:layout_width="1dp"
+                android:layout_height="@dimen/jp_faraoradio_simplelist_height"
+                android:layout_weight="3"
+                android:orientation="horizontal"
+                android:padding="4dp"
+                android:visibility="visible" >
+
+                <TextView
+                    android:id="@+id/pattern_list_element_data2_right_key"
+                    style="@style/jp_faraoradio_text_16sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:singleLine="true" />
+
+                <TextView
+                    style="@style/jp_faraoradio_text_16sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:singleLine="true"
+                    android:text=" : " />
+
+                <TextView
+                    android:id="@+id/pattern_list_element_data2_right_value"
+                    style="@style/jp_faraoradio_text_16sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginRight="24dp"
+                    android:singleLine="true" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/pattern_list_element_data3"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/jp_faraoradio_simplelist_height"
+            android:background="@color/jp_farao_background_default"
+            android:gravity="center_vertical"
+            android:orientation="vertical"
+            android:padding="4dp" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="12dp"
+                android:layout_marginRight="12dp"
+                android:gravity="left|center_vertical"
+                android:orientation="horizontal" >
+
+                <TextView
+                    style="@style/jp_faraoradio_text_16sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:singleLine="true"
+                    android:text="@string/cap_interrupt_pattern" />
+
+                <TextView
+                    style="@style/jp_faraoradio_text_16sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:singleLine="true"
+                    android:text=" : " />
+
+                <TextView
+                    android:id="@+id/pattern_list_element_data3_value1"
+                    style="@style/jp_faraoradio_text_16sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:singleLine="true" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="12dp"
+                android:layout_marginRight="12dp"
+                android:gravity="left|center_vertical"
+                android:orientation="horizontal" >
+
+                <TextView
+                    style="@style/jp_faraoradio_text_16sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:singleLine="true"
+                    android:text="@string/cap_interrupt_frame" />
+
+                <TextView
+                    style="@style/jp_faraoradio_text_16sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:singleLine="true"
+                    android:text=" : " />
+
+                <TextView
+                    android:id="@+id/pattern_list_element_data3_value2"
+                    style="@style/jp_faraoradio_text_16sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:singleLine="true" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/pattern_list_element_data4"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/jp_faraoradio_simplelist_height"
+            android:background="@color/jp_farao_background_default"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:padding="4dp" >
+
+            <TextView
+                android:id="@+id/pattern_list_element_data4_value"
+                style="@style/jp_faraoradio_text_16sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>

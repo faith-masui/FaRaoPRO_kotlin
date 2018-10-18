@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="3dp" >
+
+    <TextView
+        android:id="@+id/mychannel_txt_nodata"
+        style="@style/jp_faraoradio_text_16sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|bottom"
+        android:layout_marginBottom="60dp"
+        android:layout_marginTop="12dp"
+        android:gravity="bottom"
+        android:padding="8dp"
+        android:text="@string/msg_nodata"
+        android:visibility="gone" />
+
+    <Button
+        android:id="@+id/mychannel_btn_edit"
+        style="@style/jp_faraoradio_btn_plane"
+        android:layout_width="@dimen/jp_faraoradio_button_width"
+        android:layout_height="@dimen/jp_faraoradio_button_height"
+        android:layout_marginTop="8dp"
+        android:visibility="visible" />
+
+    <TextView
+        android:id="@+id/mychannel_txt_intro"
+        style="@style/jp_faraoradio_text_14sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|bottom"
+        android:layout_marginBottom="6dp"
+        android:layout_marginTop="12dp"
+        android:gravity="bottom"
+        android:padding="8dp" />
+
+    <LinearLayout
+        android:id="@+id/release_lnr_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:orientation="horizontal" />
+
+</LinearLayout>

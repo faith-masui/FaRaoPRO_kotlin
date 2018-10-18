@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- 選択時 -->
+    <item android:state_enabled="false" android:color="@color/jp_farao_text_view_off"/>
+    <item android:state_selected="true" android:color="@color/jp_farao_text_view_on"/>
+    <item android:state_pressed="true" android:color="@color/jp_farao_text_view_on"/>
+    <!-- 非選択時 -->
+    <item android:color="@color/jp_farao_text_view_off"/>
+
+</selector>

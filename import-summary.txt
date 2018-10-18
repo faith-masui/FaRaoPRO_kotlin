@@ -1,0 +1,92 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Manifest Merging:
+-----------------
+Your project uses libraries that provide manifests, and your Eclipse
+project did not explicitly turn on manifest merging. In Android Gradle
+projects, manifests are always merged (meaning that contents from your
+libraries' manifests will be merged into the app manifest. If you had
+manually copied contents from library manifests into your app manifest
+you may need to remove these for the app to build correctly.
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+From FaRao_pro_play:
+* key\
+* key\faith_pro_play.keystore
+* proguard.cfg
+From PullToRefresh:
+* LICENSE
+* pom.xml
+From SimonNumpicker:
+* build.xml
+* pom.xml
+From main:
+* .gitignore
+* MIT-LICENSE.txt
+* ProgressWheel-master.iml
+* README.md
+* build.gradle
+* build.xml
+* proguard-project.txt
+* proguard.cfg
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+In PullToRefresh:
+* AndroidManifest.xml => pullToRefresh\src\main\AndroidManifest.xml
+* assets\ => pullToRefresh\src\main\assets
+* res\ => pullToRefresh\src\main\res\
+* src\ => pullToRefresh\src\main\java\
+In SimonNumpicker:
+* AndroidManifest.xml => simonNumpicker\src\main\AndroidManifest.xml
+* assets\ => simonNumpicker\src\main\assets
+* res\ => simonNumpicker\src\main\res\
+* src\ => simonNumpicker\src\main\java\
+In main:
+* AndroidManifest.xml => main\src\main\AndroidManifest.xml
+* assets\ => main\src\main\assets
+* res\ => main\src\main\res\
+* src\ => main\src\main\java\
+In FaRao_pro_play:
+* AndroidManifest.xml => faRao_pro_play\src\main\AndroidManifest.xml
+* assets\ => faRao_pro_play\src\main\assets\
+* libs\android-support-v13.jar => faRao_pro_play\libs\android-support-v13.jar
+* libs\commons-codec-1.2.jar => faRao_pro_play\libs\commons-codec-1.2.jar
+* libs\commons-io-2.4.jar => faRao_pro_play\libs\commons-io-2.4.jar
+* libs\commons-lang3-3.3.2.jar => faRao_pro_play\libs\commons-lang3-3.3.2.jar
+* libs\httpclient-4.3.4.jar => faRao_pro_play\libs\httpclient-4.3.4.jar
+* libs\httpmime-4.1.1.jar => faRao_pro_play\libs\httpmime-4.1.1.jar
+* libs\libseed-3.0.jar => faRao_pro_play\libs\libseed-3.0.jar
+* lint.xml => faRao_pro_play\lint.xml
+* res\ => faRao_pro_play\src\main\res\
+* src\ => faRao_pro_play\src\main\java\
+* src\jp\faraopro\play\app\IBindService.aidl => faRao_pro_play\src\main\aidl\jp\faraopro\play\app\IBindService.aidl
+* src\jp\faraopro\play\app\Service_Callback_IF.aidl => faRao_pro_play\src\main\aidl\jp\faraopro\play\app\Service_Callback_IF.aidl
+* src\jp\faraopro\play\domain\ListDataInfo.aidl => faRao_pro_play\src\main\aidl\jp\faraopro\play\domain\ListDataInfo.aidl
+* src\jp\faraopro\play\domain\MCListDataInfo.aidl => faRao_pro_play\src\main\aidl\jp\faraopro\play\domain\MCListDataInfo.aidl
+* src\jp\faraopro\play\domain\MusicInfo.aidl => faRao_pro_play\src\main\aidl\jp\faraopro\play\domain\MusicInfo.aidl
+* src\jp\faraopro\play\mclient\IMCItem.aidl => faRao_pro_play\src\main\aidl\jp\faraopro\play\mclient\IMCItem.aidl
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
